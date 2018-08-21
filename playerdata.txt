@@ -1,0 +1,1926 @@
+sr:player:69378 - De Gea, David - Manchester United - NO
+sr:player:143334 - Lindelof, Victor - Manchester United - NO
+sr:player:606346 - Bailly, Eric - Manchester United - NO
+sr:player:93868 - Jones, Phil - Manchester United - NO
+sr:player:46998 - Rojo, Marcos - Manchester United - NO
+sr:player:111802 - Pogba, Paul - Manchester United - NO
+sr:player:34120 - Sanchez, Alexis - Manchester United - YES
+sr:player:28367 - Mata, Juan - Manchester United - NO
+sr:player:78893 - Lukaku, Romelu - Manchester United - NO
+sr:player:191176 - Martial, Anthony - Manchester United - NO
+sr:player:47741 - Smalling, Chris - Manchester United - NO
+sr:player:205508 - Lingard, Jesse - Manchester United - NO
+sr:player:938 - Carrick, Michael - Manchester United - NO
+sr:player:44864 - Blind, Daley - Manchester United - NO
+sr:player:10589 - Young, Ashley - Manchester United - NO
+sr:player:903830 - Rashford, Marcus - Manchester United - NO
+sr:player:25566 - Romero, Sergio - Manchester United - NO
+sr:player:82474 - Ander Herrera - Manchester United - NO
+sr:player:190839 - Shaw, Luke - Manchester United - NO
+sr:player:11820 - Valencia, Antonio - Manchester United - NO
+sr:player:21764 - Fellaini, Marouane - Manchester United - NO
+sr:player:44241 - Matic, Nemanja - Manchester United - NO
+sr:player:19352 - Darmian, Matteo - Manchester United - NO
+sr:player:908372 - McTominay, Scott - Manchester United - NO
+sr:player:280945 - Pereira, Joel - Manchester United - NO
+sr:player:361346 - Borthwick-Jackson, Cameron - Manchester United - NO
+sr:player:1089762 - Gomes, Angel - Manchester United - NO
+sr:player:908362 - Hamilton, Ethan - Manchester United - YES
+sr:player:134252 - Salvi, Mirko - FC Basel - NO
+sr:player:134242 - Signori, Antonio - FC Basel - NO
+sr:player:23715 - Vaclik, Tomas - FC Basel - NO
+sr:player:116683 - Lacroix, Leo - FC Basel - NO
+sr:player:26315 - Lang, Michael - FC Basel - NO
+sr:player:26285 - Frei, Fabian - FC Basel - NO
+sr:player:37803 - Zuffi, Luca - FC Basel - NO
+sr:player:35193 - van Wolfswinkel, Ricky - FC Basel - NO
+sr:player:331487 - Campo, Samuele - FC Basel - NO
+sr:player:1057309 - Okafor, Noah - FC Basel - YES
+sr:player:26286 - Stocker, Valentin - FC Basel - NO
+sr:player:12189 - Suchy, Marek - FC Basel - NO
+sr:player:4240 - Vailati, Germano - FC Basel - NO
+sr:player:547384 - Oberlin, Dimitri - FC Basel - NO
+sr:player:37397 - Serey Die, Geoffroy - FC Basel - NO
+sr:player:282247 - Ajeti, Albian - FC Basel - NO
+sr:player:322529 - Balanta, Eder - FC Basel - NO
+sr:player:119151 - Elyounoussi, Mohamed - FC Basel - NO
+sr:player:871402 - Riveros, Blas - FC Basel - NO
+sr:player:352292 - Manzambi, Neftali - FC Basel - NO
+sr:player:352288 - Petretta, Raoul - FC Basel - NO
+sr:player:370468 - Adamczyk, Robin - FC Basel - YES
+sr:player:335353 - Bua, Kevin - FC Basel - NO
+sr:player:93766 - Xhaka, Taulant - FC Basel - NO
+sr:player:1057387 - Pululu, Afimico - FC Basel - NO
+sr:player:769285 - Liechti, Martin - FC Basel - YES
+sr:player:4321 - Calla, Davide - FC Basel - NO
+sr:player:1057253 - Kaiser, Yves - FC Basel - YES
+sr:player:223608 - Pomazun, Ilya - CSKA Moscow - NO
+sr:player:146393 - Fernandes, Mario - CSKA Moscow - NO
+sr:player:10184 - Wernbloom, Pontus - CSKA Moscow - NO
+sr:player:13303 - Ignashevich, Sergey - CSKA Moscow - NO
+sr:player:25308 - Vasin, Viktor - CSKA Moscow - NO
+sr:player:13277 - Berezutski, Aleksey - CSKA Moscow - NO
+sr:player:139502 - Musa, Ahmed - CSKA Moscow - NO
+sr:player:78201 - Milanov, Georgi - CSKA Moscow - NO
+sr:player:42208 - Dzagoev, Alan - CSKA Moscow - NO
+sr:player:242054 - Vitinho - CSKA Moscow - NO
+sr:player:24550 - Nababkin, Kirill - CSKA Moscow - NO
+sr:player:318963 - Golovin, Aleksandr - CSKA Moscow - NO
+sr:player:13278 - Berezutski, Vasili - CSKA Moscow - NO
+sr:player:844311 - Bistrovic, Kristijan - CSKA Moscow - NO
+sr:player:13274 - Akinfeev, Igor - CSKA Moscow - NO
+sr:player:42861 - Schennikov, Georgi - CSKA Moscow - NO
+sr:player:862386 - Kyrnats, Georgi - CSKA Moscow - NO
+sr:player:908524 - Leonov, Kirill - CSKA Moscow - NO
+sr:player:903866 - Chalov, Fedor - CSKA Moscow - NO
+sr:player:19191 - Natcho, Bibras - CSKA Moscow - NO
+sr:player:1058721 - Tiknizyan, Nayair - CSKA Moscow - NO
+sr:player:370466 - Gordyushenko, Astemir - CSKA Moscow - NO
+sr:player:605454 - Zhamaletdinov, Timur - CSKA Moscow - NO
+sr:player:908520 - Khosonov, Khetag - CSKA Moscow - NO
+sr:player:908532 - Oleynikov, Ivan - CSKA Moscow - NO
+sr:player:908442 - Ovchinnikov, Pavel - CSKA Moscow - NO
+sr:player:908522 - Kuchaev, Konstantin - CSKA Moscow - NO
+sr:player:605496 - Svilar, Mile - Benfica Lisbon - NO
+sr:player:177177 - Grimaldo, Alex - Benfica Lisbon - NO
+sr:player:5467 - Luisao - Benfica Lisbon - NO
+sr:player:31814 - Fejsa, Ljubomir - Benfica Lisbon - NO
+sr:player:108398 - Samaris, Andreas - Benfica Lisbon - NO
+sr:player:83263 - Douglas - Benfica Lisbon - NO
+sr:player:192442 - Jimenez, Raul - Benfica Lisbon - NO
+sr:player:47906 - Jonas - Benfica Lisbon - NO
+sr:player:6902 - Lopes, Paulo - Benfica Lisbon - NO
+sr:player:50899 - Seferovic, Haris - Benfica Lisbon - NO
+sr:player:135904 - John, Ola - Benfica Lisbon - NO
+sr:player:357586 - Kalaica, Branimir - Benfica Lisbon - NO
+sr:player:188133 - Zivkovic, Andrija - Benfica Lisbon - NO
+sr:player:47334 - Salvio - Benfica Lisbon - NO
+sr:player:6516 - Eliseu - Benfica Lisbon - NO
+sr:player:322417 - Krovinovic, Filip - Benfica Lisbon - NO
+sr:player:77725 - Pizzi - Benfica Lisbon - NO
+sr:player:557008 - Cervi, Franco Emanuel - Benfica Lisbon - NO
+sr:player:356334 - Willock, Chris - Benfica Lisbon - NO
+sr:player:252577 - Rafa Silva - Benfica Lisbon - NO
+sr:player:138895 - Varela, Bruno - Benfica Lisbon - NO
+sr:player:78378 - Jardel - Benfica Lisbon - NO
+sr:player:44636 - Almeida, Andre - Benfica Lisbon - NO
+sr:player:295331 - Chrien, Martin - Benfica Lisbon - YES
+sr:player:1013301 - Parks, Keaton - Benfica Lisbon - NO
+sr:player:318941 - Dias, Ruben - Benfica Lisbon - NO
+sr:player:605962 - Ze Gomes - Benfica Lisbon - NO
+sr:player:836963 - dos Anjos, Daniel - Benfica Lisbon - NO
+sr:player:357746 - Goncalves, Diogo - Benfica Lisbon - NO
+sr:player:548044 - Carvalho, Joao - Benfica Lisbon - NO
+sr:player:357722 - Duarte, Fabio - Benfica Lisbon - NO
+sr:player:78152 - Sels, Matz - RSC Anderlecht - NO
+sr:player:137982 - Sa, Josue - RSC Anderlecht - NO
+sr:player:5999 - Deschacht, Olivier - RSC Anderlecht - NO
+sr:player:108548 - Kara Mbodji - RSC Anderlecht - NO
+sr:player:111752 - Spajic, Uros - RSC Anderlecht - NO
+sr:player:118178 - Najar, Andy - RSC Anderlecht - NO
+sr:player:190401 - Gerkens, Pieter - RSC Anderlecht - NO
+sr:player:885020 - Onyekuru, Henry - RSC Anderlecht - NO
+sr:player:109376 - Morioka, Ryota - RSC Anderlecht - YES
+sr:player:44435 - Chipciu, Alexandru - RSC Anderlecht - NO
+sr:player:123164 - Appiah, Dennis - RSC Anderlecht - NO
+sr:player:352946 - D'Alberto, Enzo - RSC Anderlecht - YES
+sr:player:146230 - Saief, Kenny - RSC Anderlecht - YES
+sr:player:94298 - Bruno, Massimo - RSC Anderlecht - NO
+sr:player:45990 - Kums, Sven - RSC Anderlecht - NO
+sr:player:6109 - Boeckx, Frank - RSC Anderlecht - NO
+sr:player:144878 - Trebel, Adrien - RSC Anderlecht - NO
+sr:player:138822 - De Jong, Boy - RSC Anderlecht - NO
+sr:player:190405 - Dendoncker, Leander - RSC Anderlecht - NO
+sr:player:792407 - Ganvoula, Silvere - RSC Anderlecht - NO
+sr:player:39595 - Obradovic, Ivan - RSC Anderlecht - NO
+sr:player:1401905 - Mohammed, Dauda - RSC Anderlecht - YES
+sr:player:1383223 - Kayembe, Edo - RSC Anderlecht - NO
+sr:player:945016 - Amuzu, Francis - RSC Anderlecht - NO
+sr:player:958228 - Sowah Adjey, Emmanuel - RSC Anderlecht - NO
+sr:player:605502 - Cools, Kobe - RSC Anderlecht - NO
+sr:player:936432 - Delcroix, Hannes - RSC Anderlecht - NO
+sr:player:936428 - Bornauw, Sebastiaan - RSC Anderlecht - YES
+sr:player:936440 - Corryn, Milan - RSC Anderlecht - NO
+sr:player:918994 - Dante, Abdoul - RSC Anderlecht - NO
+sr:player:1062142 - Sambi Lokonga, Albert - RSC Anderlecht - NO
+sr:player:98461 - Markovic, Lazar - RSC Anderlecht - NO
+sr:player:769241 - Azevedo-Janelas, Nelson - RSC Anderlecht - NO
+sr:player:1062126 - Saelemaekers, Alexis - RSC Anderlecht - NO
+sr:player:1360254 - Bukari, Osman - RSC Anderlecht - NO
+sr:player:133735 - Teodorczyk, Lukasz - RSC Anderlecht - NO
+sr:player:8959 - Neuer, Manuel - Bayern Munich - NO
+sr:player:18914 - Wagner, Sandro - Bayern Munich - NO
+sr:player:168937 - Sule, Niklas - Bayern Munich - NO
+sr:player:16632 - Hummels, Mats - Bayern Munich - NO
+sr:player:53825 - Thiago - Bayern Munich - NO
+sr:player:5712 - Ribery, Franck - Bayern Munich - NO
+sr:player:17100 - Martinez, Javi - Bayern Munich - NO
+sr:player:41789 - Lewandowski, Robert - Bayern Munich - NO
+sr:player:30037 - Robben, Arjen - Bayern Munich - NO
+sr:player:107414 - Rodriguez, James - Bayern Munich - NO
+sr:player:12634 - Rafinha - Bayern Munich - NO
+sr:player:96368 - Bernat, Juan - Bayern Munich - NO
+sr:player:878312 - Shabani, Meritan - Bayern Munich - NO
+sr:player:19382 - Boateng, Jerome - Bayern Munich - NO
+sr:player:35680 - Rudy, Sebastian - Bayern Munich - NO
+sr:player:878320 - Gotze, Felix - Bayern Munich - NO
+sr:player:227 - Starke, Tom - Bayern Munich - NO
+sr:player:18342 - Vidal, Arturo - Bayern Munich - NO
+sr:player:343067 - Tolisso, Corentin - Bayern Munich - NO
+sr:player:35166 - Muller, Thomas - Bayern Munich - NO
+sr:player:26768 - Ulreich, Sven - Bayern Munich - NO
+sr:player:66492 - Alaba, David - Bayern Munich - NO
+sr:player:169199 - Wriedt, Kwasi - Bayern Munich - NO
+sr:player:280441 - Coman, Kingsley - Bayern Munich - NO
+sr:player:822572 - Dorsch, Niklas - Bayern Munich - NO
+sr:player:259117 - Kimmich, Joshua - Bayern Munich - NO
+sr:player:902788 - Fruchtl, Christian - Bayern Munich - NO
+sr:player:311552 - Weinkauf, Leo - Bayern Munich - NO
+sr:player:1021411 - Wintzheimer, Manuel - Bayern Munich - NO
+sr:player:833489 - Benko, Fabian - Bayern Munich - NO
+sr:player:352610 - Pantovic, Milos - Bayern Munich - NO
+sr:player:907376 - Hofmann, Ron Thorben - Bayern Munich - NO
+sr:player:38440 - Trapp, Kevin - Paris Saint-Germain - NO
+sr:player:33541 - Silva, Thiago - Paris Saint-Germain - NO
+sr:player:352916 - Kimpembe, Presnel - Paris Saint-Germain - NO
+sr:player:155995 - Marquinhos - Paris Saint-Germain - NO
+sr:player:126691 - Verratti, Marco - Paris Saint-Germain - NO
+sr:player:3592 - Motta, Thiago - Paris Saint-Germain - NO
+sr:player:21521 - Cavani, Edinson - Paris Saint-Germain - NO
+sr:player:124712 - Neymar - Paris Saint-Germain - NO
+sr:player:30027 - Di Maria, Angel - Paris Saint-Germain - NO
+sr:player:128587 - Meunier, Thomas - Paris Saint-Germain - NO
+sr:player:96531 - Areola, Alphonse - Paris Saint-Germain - NO
+sr:player:49655 - Berchiche, Yuri - Paris Saint-Germain - NO
+sr:player:858082 - Lo Celso, Giovani - Paris Saint-Germain - NO
+sr:player:9642 - Diarra, Lassana - Paris Saint-Germain - NO
+sr:player:135775 - Kurzawa, Layvin - Paris Saint-Germain - NO
+sr:player:3305 - Ben Arfa, Hatem - Paris Saint-Germain - NO
+sr:player:142680 - Draxler, Julian - Paris Saint-Germain - NO
+sr:player:769333 - Nkunku, Christopher - Paris Saint-Germain - NO
+sr:player:250737 - Rabiot, Adrien - Paris Saint-Germain - NO
+sr:player:79853 - Pastore, Javier - Paris Saint-Germain - NO
+sr:player:796046 - Mbappe, Kylian - Paris Saint-Germain - NO
+sr:player:4419 - Alves, Dani - Paris Saint-Germain - NO
+sr:player:156683 - Rimane, Kevin - Paris Saint-Germain - NO
+sr:player:819266 - Callegari, Lorenzo - Paris Saint-Germain - NO
+sr:player:907846 - Bernede, Antoine - Paris Saint-Germain - NO
+sr:player:1056851 - Weah, Tim - Paris Saint-Germain - YES
+sr:player:907814 - Cibois, Sebastien - Paris Saint-Germain - YES
+sr:player:1057155 - Adli, Yacine - Paris Saint-Germain - NO
+sr:player:9370 - Gordon, Craig - Celtic FC - NO
+sr:player:839551 - Hendry, Jack - Celtic FC - NO
+sr:player:94236 - Simunovic, Jozo - Celtic FC - NO
+sr:player:82488 - Bitton, Nir - Celtic FC - NO
+sr:player:361326 - Roberts, Patrick - Celtic FC - NO
+sr:player:9204 - Brown, Scott - Celtic FC - NO
+sr:player:32189 - Griffiths, Leigh - Celtic FC - NO
+sr:player:318653 - Dembele, Moussa - Celtic FC - NO
+sr:player:24055 - Sinclair, Scott - Celtic FC - NO
+sr:player:117794 - Gamboa, Cristian - Celtic FC - NO
+sr:player:117083 - Armstrong, Stuart - Celtic FC - NO
+sr:player:10482 - Hayes, Jonny - Celtic FC - NO
+sr:player:277463 - Rogic, Tom - Celtic FC - NO
+sr:player:103928 - Boyata, Dedryck - Celtic FC - NO
+sr:player:280437 - Ntcham, Olivier - Celtic FC - NO
+sr:player:769147 - Edouard, Odsonne - Celtic FC - NO
+sr:player:10692 - Lustig, Mikael - Celtic FC - NO
+sr:player:1846 - De Vries, Dorus - Celtic FC - NO
+sr:player:96493 - Bain, Scott - Celtic FC - YES
+sr:player:8901 - Compper, Marvin - Celtic FC - YES
+sr:player:576384 - Ajer, Kristoffer - Celtic FC - NO
+sr:player:97046 - McGregor, Callum - Celtic FC - NO
+sr:player:755290 - Doohan, Ross - Celtic FC - NO
+sr:player:91744 - Forrest, James - Celtic FC - NO
+sr:player:1055325 - Henderson, Ewan - Celtic FC - NO
+sr:player:1050173 - Mcinroy, Kerr - Celtic FC - NO
+sr:player:1050165 - Welsh, Stephen - Celtic FC - NO
+sr:player:355460 - Miller, Calvin - Celtic FC - NO
+sr:player:944290 - McLaughlin, Ross - Celtic FC - NO
+sr:player:366592 - Tierney, Kieran - Celtic FC - NO
+sr:player:755294 - Hendry, Regan - Celtic FC - NO
+sr:player:285937 - Musonda, Charly - Celtic FC - NO
+sr:player:943470 - Johnston, Michael - Celtic FC - NO
+sr:player:819290 - Aitchison, Jack - Celtic FC - NO
+sr:player:986267 - Kouassi Eboue - Celtic FC - NO
+sr:player:243609 - Alisson - AS Roma - NO
+sr:player:936706 - Pellegrini, Luca - AS Roma - NO
+sr:player:44001 - Nainggolan, Radja - AS Roma - NO
+sr:player:108484 - Jesus, Juan - AS Roma - NO
+sr:player:34221 - Strootman, Kevin - AS Roma - NO
+sr:player:555540 - Pellegrini, Lorenzo - AS Roma - NO
+sr:player:47171 - Perotti, Diego - AS Roma - NO
+sr:player:14990 - Dzeko, Edin - AS Roma - NO
+sr:player:26097 - Kolarov, Aleksandar - AS Roma - NO
+sr:player:284355 - Capradossi, Elio - AS Roma - NO
+sr:player:280609 - Schick, Patrik - AS Roma - NO
+sr:player:1780 - De Rossi, Daniele - AS Roma - NO
+sr:player:758876 - Under, Cengiz - AS Roma - NO
+sr:player:1897 - Lobont, Bogdan - AS Roma - NO
+sr:player:27569 - Fazio, Federico - AS Roma - NO
+sr:player:82555 - Gonalons, Maxime - AS Roma - NO
+sr:player:148566 - Defrel, Gregoire - AS Roma - NO
+sr:player:152420 - Florenzi, Alessandro - AS Roma - NO
+sr:player:243175 - Peres, Bruno - AS Roma - NO
+sr:player:363792 - Karsdorp, Rick - AS Roma - NO
+sr:player:44906 - Skorupski, Lukasz - AS Roma - NO
+sr:player:611876 - Gerson - AS Roma - NO
+sr:player:155711 - Silva, Jonathan - AS Roma - YES
+sr:player:41234 - Manolas, Kostas - AS Roma - NO
+sr:player:936726 - Antonucci, Mirko - AS Roma - YES
+sr:player:45925 - El Shaarawy, Stephan - AS Roma - NO
+sr:player:51178 - Delac, Matej - Chelsea FC - NO
+sr:player:52741 - Caballero, Willy - Chelsea FC - NO
+sr:player:155992 - Wallace Oliveira - Chelsea FC - NO
+sr:player:142622 - Rudiger, Antonio - Chelsea FC - NO
+sr:player:69408 - Alonso, Marcos - Chelsea FC - NO
+sr:player:518 - Fabregas, Cesc - Chelsea FC - NO
+sr:player:54330 - Drinkwater, Danny - Chelsea FC - NO
+sr:player:234148 - Kante, N'Golo - Chelsea FC - NO
+sr:player:98435 - Barkley, Ross - Chelsea FC - NO
+sr:player:125407 - Morata, Alvaro - Chelsea FC - NO
+sr:player:27583 - Hazard, Eden - Chelsea FC - NO
+sr:player:35428 - Pedro - Chelsea FC - NO
+sr:player:70988 - Courtois, Thibaut - Chelsea FC - NO
+sr:player:149735 - Bakayoko, Tiemoue - Chelsea FC - NO
+sr:player:31585 - Moses, Victor - Chelsea FC - NO
+sr:player:39070 - Giroud, Olivier - Chelsea FC - YES
+sr:player:132318 - Zappacosta, Davide - Chelsea FC - NO
+sr:player:31417 - Willian - Chelsea FC - NO
+sr:player:9628 - Cahill, Gary - Chelsea FC - NO
+sr:player:186795 - Christensen, Andreas - Chelsea FC - NO
+sr:player:21555 - Azpilicueta, Cesar - Chelsea FC - NO
+sr:player:21300 - Luiz, David - Chelsea FC - NO
+sr:player:155997 - Emerson - Chelsea FC - YES
+sr:player:369318 - Scott, Kyle - Chelsea FC - NO
+sr:player:18868 - Eduardo - Chelsea FC - NO
+sr:player:974231 - Ampadu, Ethan - Chelsea FC - NO
+sr:player:1413043 - Chalobah, Trevor - Chelsea FC - YES
+sr:player:1243200 - Bulka, Marcin - Chelsea FC - NO
+sr:player:796780 - Sterling, Dujon - Chelsea FC - NO
+sr:player:1089772 - Hudson Odoi, Callum - Chelsea FC - NO
+sr:player:314370 - Brown, Isaiah - Chelsea FC - NO
+sr:player:14933 - Godin, Diego - Atletico Madrid - NO
+sr:player:26029 - Filipe Luis - Atletico Madrid - NO
+sr:player:316148 - Thomas - Atletico Madrid - NO
+sr:player:84539 - Koke - Atletico Madrid - NO
+sr:player:85859 - Griezmann, Antoine - Atletico Madrid - NO
+sr:player:116955 - Niguez, Saul - Atletico Madrid - NO
+sr:player:2436 - Torres, Fernando - Atletico Madrid - NO
+sr:player:316152 - Correa, Angel - Atletico Madrid - NO
+sr:player:69768 - Oblak, Jan - Atletico Madrid - NO
+sr:player:2806 - Gabi - Atletico Madrid - NO
+sr:player:76265 - Savic, Stefan - Atletico Madrid - NO
+sr:player:70630 - Vrsaljko, Sime - Atletico Madrid - NO
+sr:player:21212 - Costa, Diego - Atletico Madrid - NO
+sr:player:352370 - Hernandez, Lucas - Atletico Madrid - NO
+sr:player:11863 - Juanfran - Atletico Madrid - NO
+sr:player:3504 - Gameiro, Kevin - Atletico Madrid - NO
+sr:player:129452 - Vitolo - Atletico Madrid - NO
+sr:player:325355 - Gimenez, Jose - Atletico Madrid - NO
+sr:player:250219 - Werner, Axel - Atletico Madrid - NO
+sr:player:775765 - Moreno, Juan - Atletico Madrid - NO
+sr:player:360042 - Bare, Keidi - Atletico Madrid - NO
+sr:player:352360 - Sergi - Atletico Madrid - NO
+sr:player:286169 - Olabe, Roberto - Atletico Madrid - NO
+sr:player:819462 - Moya, Antonio - Atletico Madrid - NO
+sr:player:1058057 - Rodenas, Alberto - Atletico Madrid - NO
+sr:player:937196 - Isaac, Carlos - Atletico Madrid - YES
+sr:player:547252 - Montoro, Antonio - Atletico Madrid - NO
+sr:player:937732 - San Roman, Miguel - Atletico Madrid - YES
+sr:player:1422675 - dos Santos, Alex - Atletico Madrid - YES
+sr:player:935048 - Aguero, Juan - Atletico Madrid - YES
+sr:player:973791 - Navarro, Giovanni - Atletico Madrid - YES
+sr:player:41305 - Kanibolotskiy, Anton - Qarabag FK - NO
+sr:player:67970 - Garayev, Gara - Qarabag FK - NO
+sr:player:65534 - Medvedev, Maksim - Qarabag FK - NO
+sr:player:49544 - Amirguliyev, Rahid - Qarabag FK - NO
+sr:player:40995 - Michel - Qarabag FK - NO
+sr:player:219190 - Henrique, Pedro - Qarabag FK - NO
+sr:player:286071 - Madatov, Mahir - Qarabag FK - NO
+sr:player:378010 - Magomedaliyev, Shakhruddin - Qarabag FK - NO
+sr:player:63952 - Sehic, Ibrahim - Qarabag FK - NO
+sr:player:11097 - Sadygov, Rashad F. - Qarabag FK - NO
+sr:player:1089082 - Rahimli, Elcin - Qarabag FK - NO
+sr:player:1108471 - Camalov, Famil - Qarabag FK - NO
+sr:player:128441 - Richard - Qarabag FK - NO
+sr:player:56546 - Dashdemirov, Arif - Qarabag FK - NO
+sr:player:65568 - Izmayilov, Afran - Qarabag FK - NO
+sr:player:354548 - Uluxanov, Elgyun - Qarabag FK - NO
+sr:player:1336148 - Tamazov, Nihad - Qarabag FK - NO
+sr:player:7992 - Agolli, Ansi - Qarabag FK - NO
+sr:player:548218 - Huseynov, Abbas - Qarabag FK - NO
+sr:player:186299 - Yunuszade, Elvin - Qarabag FK - NO
+sr:player:1303448 - Coskun, Diniyev - Qarabag FK - NO
+sr:player:172055 - Ramazanov, Agabala - Qarabag FK - NO
+sr:player:929852 - Huseynov, Asgar - Qarabag FK - NO
+sr:player:1076386 - Aliyev, Ibrahim - Qarabag FK - NO
+sr:player:44982 - Rzezniczak, Jakub - Qarabag FK - NO
+sr:player:149045 - Huseynov, Badavi - Qarabag FK - NO
+sr:player:1372300 - Bayramov, Cavid - Qarabag FK - NO
+sr:player:769197 - Suleymanov, Nijat - Qarabag FK - NO
+sr:player:199416 - Guerrier, Donald - Qarabag FK - NO
+sr:player:1399123 - Abdullaev, Zaur - Qarabag FK - YES
+sr:player:1271332 - Mehbaliyev, Nicat - Qarabag FK - NO
+sr:player:280657 - Sheydaev, Ramil - Qarabag FK - NO
+sr:player:190627 - Diniev, Joshgun - Qarabag FK - NO
+sr:player:1416959 - Haciyev, Ruslan - Qarabag FK - YES
+sr:player:175839 - Quintana, Dani - Qarabag FK - NO
+sr:player:136680 - Choutesiotis, Lefteris - Olympiacos FC - NO
+sr:player:954660 - Silva, Igor - Olympiacos FC - YES
+sr:player:31877 - Botia - Olympiacos FC - NO
+sr:player:14525 - Romao, Alaixys - Olympiacos FC - NO
+sr:player:32985 - Tachtsidis, Panagiotis - Olympiacos FC - NO
+sr:player:115577 - Fortounis, Kostas - Olympiacos FC - NO
+sr:player:17806 - Odjidja, Vadis - Olympiacos FC - NO
+sr:player:19031 - Marin, Marko - Olympiacos FC - NO
+sr:player:186925 - Vergos, Nikos - Olympiacos FC - NO
+sr:player:156580 - Djurdjevic, Uros - Olympiacos FC - NO
+sr:player:3593 - Mirallas, Kevin - Olympiacos FC - NO
+sr:player:31265 - Gillet, Guillaume - Olympiacos FC - NO
+sr:player:100619 - Elabdellaoui, Omar - Olympiacos FC - NO
+sr:player:144594 - Ansarifard, Karim - Olympiacos FC - NO
+sr:player:137569 - Hajsafi, Ehsan - Olympiacos FC - YES
+sr:player:312908 - Koutris, Leonardo - Olympiacos FC - NO
+sr:player:10435 - Proto, Silvio - Olympiacos FC - NO
+sr:player:128509 - Martins, Andre - Olympiacos FC - NO
+sr:player:605428 - Androutsos, Thanasis - Olympiacos FC - NO
+sr:player:192266 - Engels, Bjorn - Olympiacos FC - NO
+sr:player:356314 - Nikolaou, Dimitrios - Olympiacos FC - NO
+sr:player:755720 - Lamprou, Stathis - Olympiacos FC - NO
+sr:player:935582 - Xenitidis, Georgios - Olympiacos FC - NO
+sr:player:805472 - Cisse, Pape Abou - Olympiacos FC - NO
+sr:player:107603 - Pardo, Felipe - Olympiacos FC - NO
+sr:player:252801 - Seba - Olympiacos FC - NO
+sr:player:937890 - Vrushai, Marios - Olympiacos FC - NO
+sr:player:190417 - Ivusic, Ivica - Olympiacos FC - NO
+sr:player:937858 - Skafidas, Dimitrios - Olympiacos FC - NO
+sr:player:88625 - ter Stegen, Marc-Andre - FC Barcelona - NO
+sr:player:252821 - Semedo, Nelson - FC Barcelona - NO
+sr:player:770 - Pique, Gerard - FC Barcelona - NO
+sr:player:7635 - Rakitic, Ivan - FC Barcelona - NO
+sr:player:39433 - Busquets, Sergio - FC Barcelona - NO
+sr:player:3595 - Iniesta, Andres - FC Barcelona - NO
+sr:player:16943 - Suarez, Luis - FC Barcelona - NO
+sr:player:12994 - Messi, Lionel - FC Barcelona - NO
+sr:player:361350 - Dembele, Ousmane - FC Barcelona - NO
+sr:player:119159 - Coutinho, Philippe - FC Barcelona - NO
+sr:player:188361 - Samper, Sergi - FC Barcelona - NO
+sr:player:138383 - Suarez, Denis - FC Barcelona - NO
+sr:player:123865 - Cillessen, Jasper - FC Barcelona - NO
+sr:player:115183 - Paulinho - FC Barcelona - NO
+sr:player:96366 - Alcacer, Paco - FC Barcelona - NO
+sr:player:35199 - Alba, Jordi - FC Barcelona - NO
+sr:player:96538 - Digne, Lucas - FC Barcelona - NO
+sr:player:123976 - Roberto, Sergi - FC Barcelona - NO
+sr:player:235460 - Gomes, Andre - FC Barcelona - NO
+sr:player:41218 - Vidal, Aleix - FC Barcelona - NO
+sr:player:96547 - Umtiti, Samuel - FC Barcelona - NO
+sr:player:354376 - Mina, Yerry - FC Barcelona - NO
+sr:player:1954 - Vermaelen, Thomas - FC Barcelona - NO
+sr:player:355064 - Alena, Carles - FC Barcelona - NO
+sr:player:913928 - Busquets, Oriol - FC Barcelona - NO
+sr:player:110778 - Ortola, Adrian - FC Barcelona - NO
+sr:player:769505 - Cucurella, Marc - FC Barcelona - NO
+sr:player:925976 - Arnaiz, Jose - FC Barcelona - NO
+sr:player:345333 - Costas, David - FC Barcelona - NO
+sr:player:2069 - Buffon, Gianluigi - Juventus Turin - NO
+sr:player:137667 - De Sciglio, Mattia - Juventus Turin - NO
+sr:player:2009 - Chiellini, Giorgio - Juventus Turin - NO
+sr:player:27068 - Benatia, Medhi - Juventus Turin - NO
+sr:player:27678 - Pjanic, Miralem - Juventus Turin - NO
+sr:player:4726 - Khedira, Sami - Juventus Turin - NO
+sr:player:47743 - Cuadrado, Juan - Juventus Turin - NO
+sr:player:27919 - Marchisio, Claudio - Juventus Turin - NO
+sr:player:19438 - Higuain, Gonzalo - Juventus Turin - NO
+sr:player:256219 - Dybala, Paulo - Juventus Turin - NO
+sr:player:47908 - Douglas Costa - Juventus Turin - NO
+sr:player:84854 - Alex Sandro - Juventus Turin - NO
+sr:player:5846 - Matuidi, Blaise - Juventus Turin - NO
+sr:player:2860 - Barzagli, Andrea - Juventus Turin - NO
+sr:player:46420 - Pinsoglio, Carlo - Juventus Turin - NO
+sr:player:18886 - Mandzukic, Mario - Juventus Turin - NO
+sr:player:21482 - Howedes, Benedikt - Juventus Turin - NO
+sr:player:32742 - Asamoah, Kwadwo - Juventus Turin - NO
+sr:player:50490 - Szczesny, Wojciech - Juventus Turin - NO
+sr:player:139273 - Rugani, Daniele - Juventus Turin - NO
+sr:player:4392 - Lichtsteiner, Stephan - Juventus Turin - NO
+sr:player:148191 - Sturaro, Stefano - Juventus Turin - NO
+sr:player:810644 - Bentancur, Rodrigo - Juventus Turin - NO
+sr:player:844241 - Del Favero, Mattia - Juventus Turin - NO
+sr:player:294597 - Bernardeschi, Federico - Juventus Turin - NO
+sr:player:937778 - Merio, Leonardo - Juventus Turin - NO
+sr:player:1010139 - Loria, Leonardo - Juventus Turin - NO
+sr:player:1022623 - Del Sole, Ferdinando - Juventus Turin - NO
+sr:player:778962 - Muratore, Simone - Juventus Turin - NO
+sr:player:17737 - Patricio, Rui - Sporting CP - NO
+sr:player:47443 - Coates, Sebastian - Sporting CP - NO
+sr:player:25994 - Coentrao, Fabio - Sporting CP - NO
+sr:player:59616 - Pinto, Andre - Sporting CP - NO
+sr:player:44653 - Ribeiro, Ruben - Sporting CP - NO
+sr:player:288205 - Fernandes, Bruno - Sporting CP - NO
+sr:player:578560 - Acuna, Marcos - Sporting CP - NO
+sr:player:145055 - Cesar, Bruno - Sporting CP - NO
+sr:player:73146 - Ristovski, Stefan - Sporting CP - NO
+sr:player:137978 - Carvalho, William - Sporting CP - NO
+sr:player:775081 - Lumor - Sporting CP - NO
+sr:player:158257 - Battaglia, Rodrigo - Sporting CP - NO
+sr:player:308764 - Podence, Daniel - Sporting CP - NO
+sr:player:27069 - Salin, Romain - Sporting CP - NO
+sr:player:21768 - Ruiz, Bryan - Sporting CP - NO
+sr:player:3179 - Mathieu, Jeremy - Sporting CP - NO
+sr:player:39586 - Petrovic, Radosav - Sporting CP - NO
+sr:player:173761 - Misic, Josip - Sporting CP - NO
+sr:player:32260 - Dost, Bas - Sporting CP - NO
+sr:player:605436 - Stojkovic, Vladimir - Sporting CP - NO
+sr:player:1121457 - Wendel - Sporting CP - NO
+sr:player:39981 - Montero, Fredy - Sporting CP - NO
+sr:player:1029561 - Kiki - Sporting CP - NO
+sr:player:190169 - Ponde, Cristian - Sporting CP - NO
+sr:player:605442 - Fernandes, Ivanildo - Sporting CP - NO
+sr:player:364612 - Palhinha, Joao - Sporting CP - NO
+sr:player:333311 - Ary Papel - Sporting CP - NO
+sr:player:948834 - Tavares, Ronaldo - Sporting CP - NO
+sr:player:364618 - Martins, Gelson - Sporting CP - NO
+sr:player:357724 - Silva, Pedro - Sporting CP - NO
+sr:player:24199 - Doumbia, Seydou - Sporting CP - NO
+sr:player:1015151 - Balde, Elves - Sporting CP - YES
+sr:player:143061 - Piccini, Cristiano - Sporting CP - NO
+sr:player:936382 - Leao, Rafael - Sporting CP - NO
+sr:player:280977 - Barbosa, Rafael - Sporting CP - YES
+sr:player:1013609 - Cabral, Jovane - Sporting CP - NO
+sr:player:605892 - Demiral, Merih - Sporting CP - NO
+sr:player:121590 - Petkovic, Marko - FC Spartak Moscow - NO
+sr:player:9446 - Tasci, Serdar - FC Spartak Moscow - NO
+sr:player:68160 - Ananidze, Jano - FC Spartak Moscow - NO
+sr:player:43055 - Glushakov, Denis - FC Spartak Moscow - NO
+sr:player:101973 - Ze Luis - FC Spartak Moscow - NO
+sr:player:106161 - Promes, Quincy - FC Spartak Moscow - NO
+sr:player:123354 - Fernando - FC Spartak Moscow - NO
+sr:player:39438 - Adriano, Luiz - FC Spartak Moscow - NO
+sr:player:295495 - Dzhikiya, Georgi - FC Spartak Moscow - NO
+sr:player:18083 - Bocchetti, Salvatore - FC Spartak Moscow - NO
+sr:player:799668 - Tigiev, Georgi - FC Spartak Moscow - NO
+sr:player:862144 - Bakaev, Zelimkhan - FC Spartak Moscow - NO
+sr:player:13321 - Samedov, Aleksandr - FC Spartak Moscow - NO
+sr:player:149702 - Leontjev, Igor - FC Spartak Moscow - NO
+sr:player:933576 - Shcherbakov, Konstantin - FC Spartak Moscow - NO
+sr:player:24596 - Kombarov, Dmitri - FC Spartak Moscow - NO
+sr:player:156994 - Melgarejo, Lorenzo - FC Spartak Moscow - NO
+sr:player:945354 - Mironov, Leonid - FC Spartak Moscow - YES
+sr:player:758554 - Lomovitskiy, Alesandr - FC Spartak Moscow - NO
+sr:player:94759 - Kutepov, Ilya - FC Spartak Moscow - NO
+sr:player:55056 - Hanni, Sofiane - FC Spartak Moscow - NO
+sr:player:54999 - Rebrov, Artem - FC Spartak Moscow - NO
+sr:player:68076 - Maksimovic, Nikola - FC Spartak Moscow - YES
+sr:player:41301 - Eshchenko, Andrey - FC Spartak Moscow - NO
+sr:player:336287 - Timofeev, Artem - FC Spartak Moscow - NO
+sr:player:572506 - Eremenko, Sergei - FC Spartak Moscow - NO
+sr:player:138452 - Zobnin, Roman - FC Spartak Moscow - NO
+sr:player:190437 - Pasalic, Mario - FC Spartak Moscow - NO
+sr:player:858506 - Selikhov, Aleksandr - FC Spartak Moscow - NO
+sr:player:1117707 - Sakala, Fashion - FC Spartak Moscow - NO
+sr:player:896142 - Nimely, Sylvanus - FC Spartak Moscow - NO
+sr:player:227452 - Davydov, Denis - FC Spartak Moscow - NO
+sr:player:355392 - Nikulin, Egor - FC Spartak Moscow - NO
+sr:player:1016489 - Ignatov, Mihail - FC Spartak Moscow - YES
+sr:player:856602 - Panteleev, Vladislav - FC Spartak Moscow - NO
+sr:player:758558 - Rasskazov, Nikolay - FC Spartak Moscow - NO
+sr:player:820328 - Maksimenko, Aleksandr - FC Spartak Moscow - NO
+sr:player:836449 - Rocha, Pedro - FC Spartak Moscow - NO
+sr:player:1099237 - Irgolic, Nino - NK Maribor - NO
+sr:player:139241 - Cotman, Aljaz - NK Maribor - NO
+sr:player:936464 - Hodzic, Adis - NK Maribor - NO
+sr:player:36990 - Suler, Marko - NK Maribor - NO
+sr:player:124600 - Vrhovec, Blaz - NK Maribor - NO
+sr:player:139251 - Pihler, Aleks - NK Maribor - NO
+sr:player:268005 - Ahmedi, Valon - NK Maribor - NO
+sr:player:229678 - Cretu, Alexandru - NK Maribor - NO
+sr:player:31997 - Tavares, Marcos - NK Maribor - NO
+sr:player:362270 - Hotic, Dino - NK Maribor - NO
+sr:player:21694 - Vrsic, Dare - NK Maribor - NO
+sr:player:68515 - Doumbia, Kassim - NK Maribor - NO
+sr:player:992687 - Ahmetovic, Adnan - NK Maribor - NO
+sr:player:232162 - Zahovic, Luka - NK Maribor - NO
+sr:player:139247 - Bajde, Gregor - NK Maribor - NO
+sr:player:137647 - Dervisevic, Amir - NK Maribor - NO
+sr:player:61336 - Milec, Martin - NK Maribor - NO
+sr:player:1070792 - Kolmanic, Zan - NK Maribor - NO
+sr:player:41639 - Rajcevic, Aleksander - NK Maribor - NO
+sr:player:115286 - Mesanovic, Jasmin - NK Maribor - NO
+sr:player:37576 - Viler, Mitja - NK Maribor - NO
+sr:player:605910 - Mlakar, Jan - NK Maribor - YES
+sr:player:154958 - Ivkovic, Sasa - NK Maribor - YES
+sr:player:605370 - Uskokovic, Luka - NK Maribor - NO
+sr:player:21047 - Handanovic, Jasmin - NK Maribor - NO
+sr:player:75509 - Bohar, Damjan - NK Maribor - NO
+sr:player:84374 - Obradovic, Matko - NK Maribor - NO
+sr:player:49125 - Mertelj, Ales - NK Maribor - NO
+sr:player:546336 - Kramaric, Martin - NK Maribor - NO
+sr:player:174135 - Karius, Loris - Liverpool FC - NO
+sr:player:43215 - Clyne, Nathaniel - Liverpool FC - NO
+sr:player:151545 - van Dijk, Virgil - Liverpool FC - YES
+sr:player:22126 - Wijnaldum, Georginio - Liverpool FC - NO
+sr:player:39480 - Lovren, Dejan - Liverpool FC - NO
+sr:player:791 - Milner, James - Liverpool FC - NO
+sr:player:143697 - Firmino, Roberto - Liverpool FC - NO
+sr:player:159665 - Salah, Mohamed - Liverpool FC - NO
+sr:player:318927 - Gomez, Joe - Liverpool FC - NO
+sr:player:42694 - Henderson, Jordan - Liverpool FC - NO
+sr:player:10122 - Klavan, Ragnar - Liverpool FC - NO
+sr:player:229740 - Moreno, Alberto - Liverpool FC - NO
+sr:player:217704 - Mane, Sadio - Liverpool FC - NO
+sr:player:17054 - Lallana, Adam - Liverpool FC - NO
+sr:player:10577 - Oxlade-Chamberlain, Alex - Liverpool FC - NO
+sr:player:10406 - Mignolet, Simon - Liverpool FC - NO
+sr:player:138156 - Can, Emre - Liverpool FC - NO
+sr:player:262911 - Robertson, Andy - Liverpool FC - NO
+sr:player:130181 - Ings, Danny - Liverpool FC - NO
+sr:player:361420 - Solanke, Dominic - Liverpool FC - NO
+sr:player:51501 - Matip, Joel - Liverpool FC - NO
+sr:player:39316 - Bogdan, Adam - Liverpool FC - NO
+sr:player:1298510 - Jones, Curtis - Liverpool FC - YES
+sr:player:94756 - Ward, Danny - Liverpool FC - NO
+sr:player:758402 - Woodburn, Ben - Liverpool FC - NO
+sr:player:548254 - Masterson, Conor - Liverpool FC - NO
+sr:player:1050261 - Camacho, Rafael - Liverpool FC - YES
+sr:player:779556 - Alexander-Arnold, Trent - Liverpool FC - NO
+sr:player:211064 - Rico, Sergio - Sevilla FC - NO
+sr:player:191986 - Lenglet, Clement - Sevilla FC - NO
+sr:player:604258 - Soria, David - Sevilla FC - NO
+sr:player:17803 - Pareja, Nicolas - Sevilla FC - NO
+sr:player:128376 - Mercado, Gabriel - Sevilla FC - NO
+sr:player:547246 - Soriano, Juan - Sevilla FC - NO
+sr:player:599684 - Arana, Guilherme - Sevilla FC - NO
+sr:player:122922 - Carole, Lionel - Sevilla FC - NO
+sr:player:47549 - Corchia, Sebastien - Sevilla FC - NO
+sr:player:80008 - Layun, Miguel - Sevilla FC - NO
+sr:player:21535 - Kjaer, Simon - Sevilla FC - NO
+sr:player:41653 - Carrico, Daniel - Sevilla FC - NO
+sr:player:182243 - Mesa, Roque - Sevilla FC - NO
+sr:player:119192 - Ben Yedder, Wissam - Sevilla FC - NO
+sr:player:31981 - Banega, Ever - Sevilla FC - NO
+sr:player:249929 - Correa, Joaquin - Sevilla FC - NO
+sr:player:97927 - Geis, Johannes - Sevilla FC - NO
+sr:player:107398 - Pizarro, Guido - Sevilla FC - NO
+sr:player:51652 - Nzonzi, Steven - Sevilla FC - NO
+sr:player:11869 - Navas, Jesus - Sevilla FC - NO
+sr:player:138573 - Sarabia, Pablo - Sevilla FC - NO
+sr:player:88859 - Escudero, Sergio - Sevilla FC - NO
+sr:player:116853 - Ganso - Sevilla FC - NO
+sr:player:119242 - Muriel, Luis - Sevilla FC - NO
+sr:player:215246 - Vazquez, Franco - Sevilla FC - NO
+sr:player:188407 - Ramirez, Sandro - Sevilla FC - NO
+sr:player:123977 - Nolito - Sevilla FC - NO
+sr:player:369992 - Fernandez, Carlos - Sevilla FC - NO
+sr:player:69364 - Butko, Bohdan - FC Shakhtar Donetsk - NO
+sr:player:45588 - Krivtsov, Sergey - FC Shakhtar Donetsk - NO
+sr:player:837273 - Glushitskiy, Illya - FC Shakhtar Donetsk - NO
+sr:player:97023 - Khocholava, Davyd - FC Shakhtar Donetsk - NO
+sr:player:45604 - Stepanenko, Taras - FC Shakhtar Donetsk - NO
+sr:player:39661 - Taison - FC Shakhtar Donetsk - NO
+sr:player:243623 - Fred - FC Shakhtar Donetsk - NO
+sr:player:108482 - Dentinho - FC Shakhtar Donetsk - NO
+sr:player:241488 - Bernard - FC Shakhtar Donetsk - NO
+sr:player:61073 - Marlos - FC Shakhtar Donetsk - NO
+sr:player:220333 - Nem, Wellington - FC Shakhtar Donetsk - NO
+sr:player:341099 - Malyshev, Maksym - FC Shakhtar Donetsk - NO
+sr:player:137673 - Ordets, Ivan - FC Shakhtar Donetsk - NO
+sr:player:129724 - Ferreyra, Facundo - FC Shakhtar Donetsk - NO
+sr:player:190459 - Tankovskiy, Vyacheslav - FC Shakhtar Donetsk - NO
+sr:player:124997 - Alan Patrick - FC Shakhtar Donetsk - NO
+sr:player:353272 - Matvienko, Mykola - FC Shakhtar Donetsk - NO
+sr:player:95633 - Grechyshkin, Dmytro - FC Shakhtar Donetsk - NO
+sr:player:148732 - Shevchenko, Mykyta - FC Shakhtar Donetsk - NO
+sr:player:15456 - Pyatov, Andriy - FC Shakhtar Donetsk - NO
+sr:player:78352 - Ismaily - FC Shakhtar Donetsk - NO
+sr:player:11266 - Srna, Darijo - FC Shakhtar Donetsk - NO
+sr:player:178999 - Petryak, Ivan - FC Shakhtar Donetsk - NO
+sr:player:70797 - Rakitskiy, Yaroslav - FC Shakhtar Donetsk - NO
+sr:player:773805 - Kudryk, Oleg - FC Shakhtar Donetsk - NO
+sr:player:353282 - Zubkov, Oleksandr - FC Shakhtar Donetsk - NO
+sr:player:287659 - Kovalenko, Viktor - FC Shakhtar Donetsk - NO
+sr:player:158327 - Kayode, Olarenwaju - FC Shakhtar Donetsk - NO
+sr:player:918720 - Dodo - FC Shakhtar Donetsk - NO
+sr:player:174525 - Leschuk, Blanco - FC Shakhtar Donetsk - NO
+sr:player:13638 - Fomin, Ruslan - FC Shakhtar Donetsk - NO
+sr:player:285999 - Nieuwkoop, Bart - Feyenoord Rotterdam - NO
+sr:player:309302 - van Beek, Sven - Feyenoord Rotterdam - NO
+sr:player:793738 - St Juste, Jeremiah - Feyenoord Rotterdam - NO
+sr:player:250501 - Haps, Ridgeciano - Feyenoord Rotterdam - NO
+sr:player:31566 - Van der Heijden, Jan-Arie - Feyenoord Rotterdam - NO
+sr:player:138830 - Boetius, Jean-Paul - Feyenoord Rotterdam - NO
+sr:player:2660 - El Ahmadi - Feyenoord Rotterdam - NO
+sr:player:57857 - Jorgensen, Nicolai - Feyenoord Rotterdam - NO
+sr:player:149659 - Vilhena, Tonny - Feyenoord Rotterdam - NO
+sr:player:229800 - Larsson, Sam - Feyenoord Rotterdam - NO
+sr:player:336809 - Basacikoglu, Bilal - Feyenoord Rotterdam - NO
+sr:player:583806 - Diks, Kevin - Feyenoord Rotterdam - NO
+sr:player:100386 - Berghuis, Steven - Feyenoord Rotterdam - NO
+sr:player:352376 - Tapia, Renato - Feyenoord Rotterdam - NO
+sr:player:359272 - Amrabat, Sofyan - Feyenoord Rotterdam - NO
+sr:player:556696 - Bijlow, Justin - Feyenoord Rotterdam - NO
+sr:player:758592 - Knoester, Mats - Feyenoord Rotterdam - NO
+sr:player:819 - Jones, Brad - Feyenoord Rotterdam - NO
+sr:player:99960 - Toornstra, Jens - Feyenoord Rotterdam - NO
+sr:player:1076606 - ten Hove, Ramon - Feyenoord Rotterdam - NO
+sr:player:1 - van Persie, Robin - Feyenoord Rotterdam - NO
+sr:player:32419 - Botteghin, Eric - Feyenoord Rotterdam - NO
+sr:player:934230 - Vente, Dylan - Feyenoord Rotterdam - NO
+sr:player:934214 - Malacia, Tyrell - Feyenoord Rotterdam - NO
+sr:player:756224 - Hansson, Emil - Feyenoord Rotterdam - NO
+sr:player:1254016 - Toure, Cheick - Feyenoord Rotterdam - NO
+sr:player:1064544 - Geertruida, Lutsharel - Feyenoord Rotterdam - NO
+sr:player:13249 - Bravo, Claudio - Manchester City - NO
+sr:player:44614 - Walker, Kyle - Manchester City - NO
+sr:player:124992 - Danilo - Manchester City - NO
+sr:player:6019 - Kompany, Vincent - Manchester City - NO
+sr:player:152077 - Stones, John - Manchester City - NO
+sr:player:138534 - Sterling, Raheem - Manchester City - NO
+sr:player:45853 - Gundogan, Ilkay - Manchester City - NO
+sr:player:17094 - Aguero, Sergio - Manchester City - NO
+sr:player:149734 - Laporte, Aymeric - Manchester City - YES
+sr:player:70996 - De Bruyne, Kevin - Manchester City - NO
+sr:player:24048 - Delph, Fabian - Manchester City - NO
+sr:player:293519 - Sane, Leroy - Manchester City - NO
+sr:player:331209 - Silva, Bernardo - Manchester City - NO
+sr:player:11781 - Silva, David - Manchester City - NO
+sr:player:139225 - Mendy, Benjamin - Manchester City - NO
+sr:player:352668 - Adarabioyo, Tosin - Manchester City - NO
+sr:player:13630 - Fernandinho - Manchester City - NO
+sr:player:74915 - Otamendi, Nicolas - Manchester City - NO
+sr:player:254491 - Ederson - Manchester City - NO
+sr:player:835751 - Jesus, Gabriel - Manchester City - NO
+sr:player:287643 - Zinchenko, Olexandr - Manchester City - NO
+sr:player:14468 - Toure, Yaya - Manchester City - NO
+sr:player:769115 - Nmecha, Lukas - Manchester City - NO
+sr:player:937356 - Duhaney, Demeaco - Manchester City - NO
+sr:player:1047129 - Foden, Philip - Manchester City - NO
+sr:player:1047063 - Muric, Arijanet - Manchester City - NO
+sr:player:937374 - Diaz, Brahim - Manchester City - NO
+sr:player:1299440 - Dele Bashiru, Tom - Manchester City - NO
+sr:player:937340 - Grimshaw, Daniel - Manchester City - NO
+sr:player:934542 - Wilson, Tyreke - Manchester City - NO
+sr:player:124980 - Rafael - SSC Napoli - NO
+sr:player:158277 - Allan - SSC Napoli - NO
+sr:player:99546 - Mario Rui - SSC Napoli - NO
+sr:player:40965 - Callejon, Jose - SSC Napoli - NO
+sr:player:132874 - Jorginho - SSC Napoli - NO
+sr:player:14374 - Maggio, Christian - SSC Napoli - NO
+sr:player:1299482 - Scarf, Micheal - SSC Napoli - NO
+sr:player:32493 - Mertens, Dries - SSC Napoli - NO
+sr:player:25985 - Hamsik, Marek - SSC Napoli - NO
+sr:player:855612 - Leandrinho - SSC Napoli - NO
+sr:player:49909 - Milic, Hrvoje - SSC Napoli - NO
+sr:player:138605 - Zielinski, Piotr - SSC Napoli - NO
+sr:player:69295 - Chiriches, Vlad - SSC Napoli - NO
+sr:player:46714 - Sepe, Luigi - SSC Napoli - NO
+sr:player:136322 - Hysaj, Elseid - SSC Napoli - NO
+sr:player:106258 - Insigne, Lorenzo - SSC Napoli - NO
+sr:player:26937 - Reina, Pepe - SSC Napoli - NO
+sr:player:126071 - Koulibaly, Kalidou - SSC Napoli - NO
+sr:player:366156 - Machach, Zinedine - SSC Napoli - NO
+sr:player:573616 - Rog, Marko - SSC Napoli - NO
+sr:player:133236 - Ghoulam, Faouzi - SSC Napoli - NO
+sr:player:3041 - Albiol, Raul - SSC Napoli - NO
+sr:player:916316 - Ounas, Adam - SSC Napoli - NO
+sr:player:798344 - Diawara, Amadou - SSC Napoli - NO
+sr:player:24818 - Tonelli, Lorenzo - SSC Napoli - NO
+sr:player:161325 - Milik, Arek - SSC Napoli - NO
+sr:player:41614 - Subasic, Danijel - AS Monaco - NO
+sr:player:328519 - Jemerson - AS Monaco - NO
+sr:player:759428 - Jorge - AS Monaco - NO
+sr:player:25682 - Radamel Falcao - AS Monaco - NO
+sr:player:37126 - Jovetic, Stevan - AS Monaco - NO
+sr:player:317699 - Balde, Keita - AS Monaco - NO
+sr:player:1020203 - Diakhaby, Adama - AS Monaco - NO
+sr:player:408 - Benaglio, Diego - AS Monaco - NO
+sr:player:934912 - Utkus, Edgaras - AS Monaco - YES
+sr:player:243585 - Fabinho - AS Monaco - NO
+sr:player:123228 - Ghezzal, Rachid - AS Monaco - NO
+sr:player:6562 - Moutinho, Joao - AS Monaco - NO
+sr:player:331737 - Tielemans, Youri - AS Monaco - NO
+sr:player:123388 - Sidibe, Djibril - AS Monaco - NO
+sr:player:190147 - Lopes, Marcos - AS Monaco - NO
+sr:player:1058379 - Serrano, Julien - AS Monaco - NO
+sr:player:935058 - Jordi Mboula - AS Monaco - NO
+sr:player:986667 - Pellegri, Pietro - AS Monaco - YES
+sr:player:12241 - Raggi, Andrea - AS Monaco - NO
+sr:player:45362 - Glik, Kamil - AS Monaco - NO
+sr:player:358540 - Boschilia - AS Monaco - NO
+sr:player:191182 - Lemar, Thomas - AS Monaco - NO
+sr:player:333239 - Traore, Adama - AS Monaco - NO
+sr:player:580950 - Sy, Seydou - AS Monaco - NO
+sr:player:1368608 - Faivre, Romain - AS Monaco - NO
+sr:player:1058403 - Sylla, Moussa - AS Monaco - NO
+sr:player:605542 - N'Doram, Kevin - AS Monaco - NO
+sr:player:580952 - Toure, Almamy - AS Monaco - NO
+sr:player:779602 - Badiashile, Loic - AS Monaco - NO
+sr:player:19482 - Fabri - Besiktas JK - NO
+sr:player:4441 - Adriano - Besiktas JK - NO
+sr:player:5884 - Pepe - Besiktas JK - NO
+sr:player:14557 - Tosic, Dusko - Besiktas JK - NO
+sr:player:6254 - Quaresma, Ricardo - Besiktas JK - NO
+sr:player:1876 - Babel, Ryan - Besiktas JK - NO
+sr:player:27838 - Negredo, Alvaro - Besiktas JK - NO
+sr:player:137642 - Ozyakup, Oguzhan - Besiktas JK - NO
+sr:player:43643 - Pektemek, Mustafa - Besiktas JK - NO
+sr:player:22975 - Medel, Gary - Besiktas JK - NO
+sr:player:7721 - Hutchinson, Atiba - Besiktas JK - NO
+sr:player:914518 - Aksoy, Fatih - Besiktas JK - NO
+sr:player:18115 - Lens, Jeremain - Besiktas JK - NO
+sr:player:71203 - Arslan, Tolgay - Besiktas JK - NO
+sr:player:43394 - Uysal, Necip - Besiktas JK - NO
+sr:player:51225 - Vida - Besiktas JK - NO
+sr:player:1057243 - Apardi, Mustafa - Besiktas JK - NO
+sr:player:6189 - Zengin, Tolga - Besiktas JK - NO
+sr:player:13313 - Vagner Love - Besiktas JK - NO
+sr:player:115205 - Nukan, Atinc - Besiktas JK - NO
+sr:player:5508 - Kavlak, Veli - Besiktas JK - NO
+sr:player:1057215 - Acikgoz, Mertcan - Besiktas JK - NO
+sr:player:944192 - Karatas, Huseyin - Besiktas JK - NO
+sr:player:1057193 - Celebi, Alpay - Besiktas JK - NO
+sr:player:88125 - Tore, Gokhan - Besiktas JK - NO
+sr:player:1099937 - Celik, Abdullah - Besiktas JK - NO
+sr:player:30137 - Gonul, Gokhan - Besiktas JK - NO
+sr:player:15680 - Erkin, Caner - Besiktas JK - NO
+sr:player:329245 - Talisca - Besiktas JK - NO
+sr:player:756754 - Larin, Cyle - Besiktas JK - YES
+sr:player:898606 - Yuvakuran, Utku - Besiktas JK - NO
+sr:player:1361112 - Destanoglu, Ersin - Besiktas JK - NO
+sr:player:4694 - Casillas, Iker - FC Porto - NO
+sr:player:26179 - Pereira, Maxi - FC Porto - NO
+sr:player:803656 - Osorio, Yordan - FC Porto - YES
+sr:player:26056 - Marcano, Ivan - FC Porto - NO
+sr:player:243479 - Paulinho - FC Porto - NO
+sr:player:143587 - Hernani - FC Porto - NO
+sr:player:39066 - Brahimi, Yacine - FC Porto - NO
+sr:player:116869 - Aboubakar, Vincent - FC Porto - NO
+sr:player:231776 - Torres, Oliver - FC Porto - NO
+sr:player:298300 - Marega, Moussa - FC Porto - NO
+sr:player:252669 - Jose Sa - FC Porto - NO
+sr:player:312110 - Telles, Alex - FC Porto - NO
+sr:player:138890 - Paciencia, Goncalo - FC Porto - NO
+sr:player:204790 - Herrera, Hector - FC Porto - NO
+sr:player:123906 - Corona, Jesus - FC Porto - NO
+sr:player:109851 - Waris, Majeed - FC Porto - NO
+sr:player:59777 - Andre Andre - FC Porto - NO
+sr:player:221200 - Pereira, Ricardo - FC Porto - NO
+sr:player:99545 - Pereira, Danilo - FC Porto - NO
+sr:player:139421 - Reyes, Diego - FC Porto - NO
+sr:player:244801 - Otavio - FC Porto - NO
+sr:player:248245 - Alves, Vana - FC Porto - NO
+sr:player:96840 - Oliveira, Sergio - FC Porto - NO
+sr:player:242211 - Felipe - FC Porto - NO
+sr:player:800432 - Soares, Tiquinho - FC Porto - NO
+sr:player:817522 - Dalot, Diogo - FC Porto - NO
+sr:player:34317 - Fabiano - FC Porto - NO
+sr:player:1129105 - Luizao - FC Porto - NO
+sr:player:318947 - Mata, Luis - FC Porto - YES
+sr:player:280959 - Moreira, Rui - FC Porto - NO
+sr:player:343619 - Costa, Bruno - FC Porto - NO
+sr:player:4336 - Coltorti, Fabio - RB Leipzig - NO
+sr:player:947668 - Bernardo - RB Leipzig - NO
+sr:player:136924 - Orban, Willi - RB Leipzig - NO
+sr:player:769139 - Upamecano, Dayot - RB Leipzig - NO
+sr:player:936572 - Konate, Ibrahima - RB Leipzig - NO
+sr:player:133908 - Sabitzer, Marcel - RB Leipzig - NO
+sr:player:365772 - Keita, Naby - RB Leipzig - YES
+sr:player:135264 - Poulsen, Yussuf - RB Leipzig - NO
+sr:player:51785 - Forsberg, Emil - RB Leipzig - NO
+sr:player:232306 - Werner, Timo - RB Leipzig - NO
+sr:player:21600 - Ilsanker, Stefan - RB Leipzig - NO
+sr:player:319853 - Klostermann, Lukas - RB Leipzig - NO
+sr:player:97012 - Bruma - RB Leipzig - NO
+sr:player:926658 - Lookman, Ademola - RB Leipzig - NO
+sr:player:147775 - Schmitz, Benno Erik - RB Leipzig - NO
+sr:player:878264 - Kohn, Philipp - RB Leipzig - NO
+sr:player:103364 - Halstenberg, Marcel - RB Leipzig - NO
+sr:player:125261 - Kaiser, Dominik - RB Leipzig - NO
+sr:player:355492 - Laimer, Konrad - RB Leipzig - NO
+sr:player:149656 - Mvogo, Yvon - RB Leipzig - NO
+sr:player:352938 - Augustin, Jean-Kevin - RB Leipzig - NO
+sr:player:124318 - Demme, Diego - RB Leipzig - NO
+sr:player:37096 - Gulacsi, Peter - RB Leipzig - NO
+sr:player:1113071 - Abouchabaka, Elias - RB Leipzig - NO
+sr:player:84251 - Kampl, Kevin - RB Leipzig - NO
+sr:player:56113 - Navas, Keylor - Real Madrid - NO
+sr:player:138572 - Carvajal, Dani - Real Madrid - NO
+sr:player:355048 - Vallejo, Jesus - Real Madrid - NO
+sr:player:10710 - Ramos, Sergio - Real Madrid - NO
+sr:player:138310 - Varane, Raphael - Real Madrid - NO
+sr:player:69404 - Nacho - Real Madrid - NO
+sr:player:750 - Cristiano Ronaldo - Real Madrid - NO
+sr:player:26502 - Kroos, Toni - Real Madrid - NO
+sr:player:3306 - Benzema, Karim - Real Madrid - NO
+sr:player:15466 - Modric, Luka - Real Madrid - NO
+sr:player:15354 - Bale, Gareth - Real Madrid - NO
+sr:player:17787 - Marcelo - Real Madrid - NO
+sr:player:18184 - Casilla, Kiko - Real Madrid - NO
+sr:player:122951 - Casemiro - Real Madrid - NO
+sr:player:772113 - Hernandez, Theo - Real Madrid - NO
+sr:player:255239 - Vazquez, Lucas - Real Madrid - NO
+sr:player:353138 - Llorente, Marcos - Real Madrid - NO
+sr:player:903858 - Hakimi, Achraf - Real Madrid - NO
+sr:player:361004 - Asensio, Marco - Real Madrid - NO
+sr:player:604954 - Mayoral, Borja - Real Madrid - NO
+sr:player:103417 - Isco - Real Madrid - NO
+sr:player:136710 - Kovacic, Mateo - Real Madrid - NO
+sr:player:547838 - Ceballos, Dani - Real Madrid - NO
+sr:player:772033 - Tejero, Alvaro - Real Madrid - NO
+sr:player:1047509 - Franchu - Real Madrid - NO
+sr:player:769129 - Zidane, Luca - Real Madrid - NO
+sr:player:605514 - Quezada, Luismi - Real Madrid - NO
+sr:player:769517 - Oscar - Real Madrid - NO
+sr:player:907892 - Manu - Real Madrid - NO
+sr:player:1047457 - Ramos, Mohamet - Real Madrid - NO
+sr:player:592100 - Gonzalez, Cristo - Real Madrid - NO
+sr:player:907928 - Seoane, Jaime - Real Madrid - NO
+sr:player:88 - Weidenfeller, Roman - Borussia Dortmund - NO
+sr:player:907834 - Zagadou, Dan Axel - Borussia Dortmund - NO
+sr:player:1047147 - Sancho, Jadon - Borussia Dortmund - NO
+sr:player:21881 - Sahin, Nuri - Borussia Dortmund - NO
+sr:player:41116 - Yarmolenko, Andriy - Borussia Dortmund - NO
+sr:player:66518 - Gotze, Mario - Borussia Dortmund - NO
+sr:player:37092 - Reus, Marco - Borussia Dortmund - NO
+sr:player:246999 - Guerreiro, Raphael - Borussia Dortmund - NO
+sr:player:925724 - Isak, Alexander - Borussia Dortmund - NO
+sr:player:149606 - Toljan, Jeremy - Borussia Dortmund - NO
+sr:player:383560 - Akanji, Manuel - Borussia Dortmund - NO
+sr:player:35194 - Rode, Sebastian - Borussia Dortmund - NO
+sr:player:341589 - Dahoud, Mahmoud - Borussia Dortmund - NO
+sr:player:171927 - Philipp, Maximilian - Borussia Dortmund - NO
+sr:player:70492 - Schurrle, Andre - Borussia Dortmund - NO
+sr:player:809758 - Pulisic, Christian - Borussia Dortmund - NO
+sr:player:34853 - Kagawa, Shinji - Borussia Dortmund - NO
+sr:player:978173 - Beste, Jan-Niklas - Borussia Dortmund - NO
+sr:player:13108 - Sokratis - Borussia Dortmund - NO
+sr:player:24829 - Piszczek, Lukasz - Borussia Dortmund - NO
+sr:player:273 - Castro, Gonzalo - Borussia Dortmund - NO
+sr:player:26760 - Schmelzer, Marcel - Borussia Dortmund - NO
+sr:player:237068 - Weigl, Julian - Borussia Dortmund - NO
+sr:player:1051087 - Gomez, Sergio - Borussia Dortmund - YES
+sr:player:352556 - Reimann, Dominik - Borussia Dortmund - NO
+sr:player:39015 - Toprak, Omer - Borussia Dortmund - NO
+sr:player:142104 - Durm, Erik - Borussia Dortmund - NO
+sr:player:37378 - Burki, Roman - Borussia Dortmund - NO
+sr:player:147745 - Batshuayi, Michy - Borussia Dortmund - NO
+sr:player:359034 - Gudino, Raul - Apoel Nicosia FC - NO
+sr:player:1059871 - Papadopoulos, Giorgos - Apoel Nicosia FC - NO
+sr:player:18251 - Lago, Roberto - Apoel Nicosia FC - NO
+sr:player:1059881 - Scottis, Neophytos - Apoel Nicosia FC - NO
+sr:player:41300 - Rueda, Jesus - Apoel Nicosia FC - NO
+sr:player:100392 - Ebecilio, Lorenzo - Apoel Nicosia FC - NO
+sr:player:17396 - Alexandrou, Nektarios - Apoel Nicosia FC - NO
+sr:player:50537 - Perez, Nauzet - Apoel Nicosia FC - NO
+sr:player:60681 - Vinicius - Apoel Nicosia FC - NO
+sr:player:355088 - Sallai, Roland - Apoel Nicosia FC - NO
+sr:player:13714 - Milanov, Zhivko - Apoel Nicosia FC - NO
+sr:player:945356 - Artemiou, Antreas - Apoel Nicosia FC - NO
+sr:player:30744 - Nsue, Emilio - Apoel Nicosia FC - NO
+sr:player:31868 - Efrem, Georgios - Apoel Nicosia FC - NO
+sr:player:51557 - Pote, Mickael - Apoel Nicosia FC - NO
+sr:player:9477 - De Camargo, Igor - Apoel Nicosia FC - NO
+sr:player:116842 - Oar, Tommy - Apoel Nicosia FC - NO
+sr:player:252121 - Zahid, Ghayas - Apoel Nicosia FC - NO
+sr:player:979155 - Grubac, Sergej - Apoel Nicosia FC - NO
+sr:player:139279 - Antoniou, Minas - Apoel Nicosia FC - NO
+sr:player:69795 - Polyakov, Denis - Apoel Nicosia FC - NO
+sr:player:581774 - Farias, Agustin Carlos - Apoel Nicosia FC - NO
+sr:player:13924 - Morais, Nuno - Apoel Nicosia FC - NO
+sr:player:186913 - Vouros, Praxitelis - Apoel Nicosia FC - NO
+sr:player:46232 - Merkis, Giorgos - Apoel Nicosia FC - NO
+sr:player:1059865 - Stylianidis, Marcos - Apoel Nicosia FC - NO
+sr:player:293185 - Makris, Andreas - Apoel Nicosia FC - NO
+sr:player:934458 - Andreou, Giannis - Apoel Nicosia FC - NO
+sr:player:353210 - Ioannou, Nicholas - Apoel Nicosia FC - NO
+sr:player:13420 - Aloneftis, Stathis - Apoel Nicosia FC - NO
+sr:player:945318 - Costeas, Aristidis - Apoel Nicosia FC - NO
+sr:player:166503 - Dellatorre - Apoel Nicosia FC - NO
+sr:player:37552 - Carlao - Apoel Nicosia FC - NO
+sr:player:311608 - Souza, Lucas - Apoel Nicosia FC - NO
+sr:player:604866 - Paraskevas, Antreas - Apoel Nicosia FC - NO
+sr:player:2594 - Waterman, Boy - Apoel Nicosia FC - NO
+sr:player:9048 - Lloris, Hugo - Tottenham Hotspur - NO
+sr:player:69256 - Trippier, Kieran - Tottenham Hotspur - NO
+sr:player:16586 - Rose, Danny - Tottenham Hotspur - NO
+sr:player:44575 - Alderweireld, Toby - Tottenham Hotspur - NO
+sr:player:16921 - Vertonghen, Jan - Tottenham Hotspur - NO
+sr:player:566102 - Sanchez, Davinson - Tottenham Hotspur - NO
+sr:player:111505 - Son, Heung Min - Tottenham Hotspur - NO
+sr:player:108579 - Kane, Harry - Tottenham Hotspur - NO
+sr:player:122702 - Lamela, Erik - Tottenham Hotspur - NO
+sr:player:45956 - Wanyama, Victor - Tottenham Hotspur - NO
+sr:player:16944 - Vorm, Michel - Tottenham Hotspur - NO
+sr:player:146101 - Dier, Eric - Tottenham Hotspur - NO
+sr:player:27014 - Sissoko, Moussa - Tottenham Hotspur - NO
+sr:player:11692 - Llorente, Fernando - Tottenham Hotspur - NO
+sr:player:9865 - Dembele, Mousa - Tottenham Hotspur - NO
+sr:player:198028 - Alli, Dele - Tottenham Hotspur - NO
+sr:player:1104383 - Foyth, Juan - Tottenham Hotspur - NO
+sr:player:164343 - Gazzaniga, Paulo - Tottenham Hotspur - NO
+sr:player:105734 - Eriksen, Christian - Tottenham Hotspur - NO
+sr:player:105697 - Aurier, Serge - Tottenham Hotspur - NO
+sr:player:149710 - Lucas - Tottenham Hotspur - YES
+sr:player:545780 - Winks, Harry - Tottenham Hotspur - NO
+sr:player:94758 - Davies, Ben - Tottenham Hotspur - NO
+sr:player:920380 - Walker-Peters, Kyle - Tottenham Hotspur - NO
+sr:player:155851 - Kolar, Ondrej - SK Slavia Prague - YES
+sr:player:117387 - Jugas, Jakub - SK Slavia Prague - NO
+sr:player:913448 - Stropek, Daniel - SK Slavia Prague - NO
+sr:player:186017 - Sobol, Eduard - SK Slavia Prague - NO
+sr:player:22442 - Flo, Per Egil - SK Slavia Prague - NO
+sr:player:111735 - Sykora, Jan - SK Slavia Prague - NO
+sr:player:24597 - Danny - SK Slavia Prague - NO
+sr:player:151960 - Zmrhal, Jaromir - SK Slavia Prague - NO
+sr:player:55917 - Mingazow, Ruslan - SK Slavia Prague - NO
+sr:player:38227 - Husbauer, Josef - SK Slavia Prague - NO
+sr:player:71797 - Tecl, Stanislav - SK Slavia Prague - NO
+sr:player:901380 - Bucha, Pavel - SK Slavia Prague - NO
+sr:player:245705 - Ngadeu, Michael - SK Slavia Prague - NO
+sr:player:156718 - van Buren, Mick - SK Slavia Prague - NO
+sr:player:12004 - Kudela, Ondrej - SK Slavia Prague - YES
+sr:player:42860 - Stoch, Miroslav - SK Slavia Prague - NO
+sr:player:92745 - Boril, Jan - SK Slavia Prague - NO
+sr:player:326419 - Deli, Simon - SK Slavia Prague - NO
+sr:player:11917 - Bilek, Jiri - SK Slavia Prague - NO
+sr:player:23661 - Skoda, Milan - SK Slavia Prague - NO
+sr:player:359840 - Soucek, Tomas - SK Slavia Prague - NO
+sr:player:45768 - Mesanovic, Muris - SK Slavia Prague - NO
+sr:player:68755 - Frydrych, Michal - SK Slavia Prague - NO
+sr:player:237406 - Hromada, Jakub - SK Slavia Prague - NO
+sr:player:18955 - Necid, Tomas - SK Slavia Prague - NO
+sr:player:336549 - Pokorny, Lukas - SK Slavia Prague - NO
+sr:player:1132641 - Otahal, Martin - SK Slavia Prague - NO
+sr:player:58243 - Kovar, Premysl - SK Slavia Prague - NO
+sr:player:12190 - Svento, Dusan - SK Slavia Prague - NO
+sr:player:966835 - Stehno, Filip - SK Slavia Prague - NO
+sr:player:1356088 - Mitrano, Alejandro - SK Slavia Prague - NO
+sr:player:924130 - Havrda, Simon - SK Slavia Prague - NO
+sr:player:990627 - Bjelos, Nikola - SK Slavia Prague - NO
+sr:player:41011 - Asenjo, Sergio - Villarreal CF - NO
+sr:player:48751 - Gaspar, Mario - Villarreal CF - NO
+sr:player:150212 - Gonzalez, Alvaro - Villarreal CF - NO
+sr:player:344199 - Semedo, Ruben - Villarreal CF - NO
+sr:player:547242 - Marin, Adrian - Villarreal CF - NO
+sr:player:82400 - Victor Ruiz - Villarreal CF - NO
+sr:player:167855 - Cheryshev, Denis - Villarreal CF - NO
+sr:player:912932 - Fornals, Pablo - Villarreal CF - NO
+sr:player:106572 - Bacca, Carlos - Villarreal CF - NO
+sr:player:188405 - Castillejo, Samu - Villarreal CF - NO
+sr:player:44577 - Costa, Jaume - Villarreal CF - NO
+sr:player:160893 - Al-Dawsari, Salem - Villarreal CF - YES
+sr:player:31406 - Fernandez, Andres - Villarreal CF - NO
+sr:player:153966 - Trigueros, Manu - Villarreal CF - NO
+sr:player:336655 - Unal, Enes - Villarreal CF - NO
+sr:player:844073 - Hernandez, Rodrigo - Villarreal CF - NO
+sr:player:100580 - Sansone, Nicola - Villarreal CF - NO
+sr:player:28184 - Fuego, Javi - Villarreal CF - NO
+sr:player:80406 - Soriano, Roberto - Villarreal CF - NO
+sr:player:18248 - Soriano, Bruno - Villarreal CF - NO
+sr:player:25621 - Rukavina, Antonio - Villarreal CF - NO
+sr:player:2976 - Bonera, Daniele - Villarreal CF - NO
+sr:player:344243 - Martinez, Roger - Villarreal CF - YES
+sr:player:11824 - Barbosa, Mariano - Villarreal CF - NO
+sr:player:355050 - Guerra, Ramiro - Villarreal CF - NO
+sr:player:318623 - Gonzalez, Mario - Villarreal CF - NO
+sr:player:1108877 - Raba, Daniel - Villarreal CF - YES
+sr:player:1015195 - Garcia, Imanol - Villarreal CF - YES
+sr:player:1087128 - Pau Torres - Villarreal CF - NO
+sr:player:188349 - Cantero, Ander - Villarreal CF - NO
+sr:player:944196 - Chuca - Villarreal CF - NO
+sr:player:358942 - Suarez, Leonardo - Villarreal CF - NO
+sr:player:1373599 - Martinez, Pedro - Villarreal CF - NO
+sr:player:769519 - Morlanes, Manu - Villarreal CF - NO
+sr:player:944168 - Castano, Jose - Villarreal CF - NO
+sr:player:944194 - Lozano, Sergio - Villarreal CF - NO
+sr:player:61971 - Lifshitz, Daniel - Maccabi Tel Aviv - NO
+sr:player:127846 - Dasa, Eli - Maccabi Tel Aviv - NO
+sr:player:21722 - Shpungin, Yuval - Maccabi Tel Aviv - NO
+sr:player:128654 - Babin, Jean Sylvain - Maccabi Tel Aviv - NO
+sr:player:138394 - Rodriguez, Jose - Maccabi Tel Aviv - NO
+sr:player:292823 - Atzili, Omer - Maccabi Tel Aviv - NO
+sr:player:64443 - Kjartansson, Vidar Orn - Maccabi Tel Aviv - NO
+sr:player:25627 - Itzhaki, Barak - Maccabi Tel Aviv - NO
+sr:player:19931 - Blackman, Nick - Maccabi Tel Aviv - NO
+sr:player:54659 - Yeini, Sheran - Maccabi Tel Aviv - NO
+sr:player:138508 - Miha, Dor - Maccabi Tel Aviv - NO
+sr:player:61528 - Atar, Eliran - Maccabi Tel Aviv - NO
+sr:player:194480 - Kanuk, Gidi - Maccabi Tel Aviv - NO
+sr:player:64817 - Tibi, Eitan - Maccabi Tel Aviv - NO
+sr:player:609732 - Daniel - Maccabi Tel Aviv - NO
+sr:player:1145964 - Baltaxa, Matan - Maccabi Tel Aviv - NO
+sr:player:80611 - Rikan, Avi - Maccabi Tel Aviv - NO
+sr:player:68037 - Golasa, Eyal - Maccabi Tel Aviv - NO
+sr:player:314098 - Schoenfeld, Aaron - Maccabi Tel Aviv - NO
+sr:player:1260 - Ben Haim I, Tal - Maccabi Tel Aviv - NO
+sr:player:147356 - Davidzada, Ofir - Maccabi Tel Aviv - NO
+sr:player:148196 - Battocchio, Cristian - Maccabi Tel Aviv - NO
+sr:player:152868 - Margulies, Gael - Maccabi Tel Aviv - NO
+sr:player:186953 - Peretz, Dor - Maccabi Tel Aviv - NO
+sr:player:758906 - Altman, Tomer - Maccabi Tel Aviv - NO
+sr:player:188107 - Rajkovic, Predrag - Maccabi Tel Aviv - NO
+sr:player:887202 - Cohen, Jonathon - Maccabi Tel Aviv - NO
+sr:player:58684 - Eric, Nenad - FC Astana - NO
+sr:player:35607 - Shitov, Igor - FC Astana - NO
+sr:player:55398 - Anicic, Marin - FC Astana - NO
+sr:player:134877 - Kleinheisler, Laszlo - FC Astana - NO
+sr:player:85701 - Muzhikov, Serikzhan - FC Astana - NO
+sr:player:137700 - Despotovic, Djordje - FC Astana - NO
+sr:player:51136 - Tomasov, Marin - FC Astana - NO
+sr:player:86285 - Beysebekov, Abzal - FC Astana - NO
+sr:player:57427 - Majevski, Ivan - FC Astana - NO
+sr:player:758952 - Zaynutdinov, Baktiyor - FC Astana - NO
+sr:player:227188 - Twumasi, Patrick - FC Astana - NO
+sr:player:76522 - Maliy, Sergiy - FC Astana - NO
+sr:player:36934 - Logvinenko, Yuriy - FC Astana - NO
+sr:player:330605 - Pertsukh, Yuriy - FC Astana - NO
+sr:player:10863 - Mokin, Aleksandr - FC Astana - NO
+sr:player:112817 - Postnikov, Evgeny - FC Astana - NO
+sr:player:241908 - Murtazaev, Roman - FC Astana - NO
+sr:player:135166 - Pavlov, Stanislav - FC Astana - NO
+sr:player:60065 - Shomko, Dmitriy - FC Astana - NO
+sr:player:1078744 - Prokopenko, Vladislav - FC Astana - NO
+sr:player:64080 - Stanojevic, Marko - FC Astana - NO
+sr:player:116016 - Schetkin, Aleksey - FC Astana - NO
+sr:player:153540 - Stevanovic, Nemanja - Partizan Belgrade - NO
+sr:player:1265972 - Cucin, Luka - Partizan Belgrade - NO
+sr:player:1406467 - Salou, Dramane - Partizan Belgrade - YES
+sr:player:315224 - Tawamba, Leandre - Partizan Belgrade - NO
+sr:player:45371 - Vulicevic, Miroslav - Partizan Belgrade - NO
+sr:player:934932 - Bosnjak, Strahinja - Partizan Belgrade - NO
+sr:player:26104 - Tosic, Zoran - Partizan Belgrade - NO
+sr:player:963211 - Vlahovic, Dusan - Partizan Belgrade - NO
+sr:player:189009 - Jankovic, Marko - Partizan Belgrade - NO
+sr:player:824100 - Vakulko, Yurii - Partizan Belgrade - NO
+sr:player:1089560 - Markovic, Svetozar - Partizan Belgrade - NO
+sr:player:188115 - Zdjelar, Sasa - Partizan Belgrade - NO
+sr:player:806940 - Ivanovic, Djorde - Partizan Belgrade - YES
+sr:player:225074 - Soumah, Seydouba - Partizan Belgrade - NO
+sr:player:310068 - Jevtovic, Marko - Partizan Belgrade - NO
+sr:player:11197 - Ilic, Sasa - Partizan Belgrade - NO
+sr:player:126028 - Ostojic, Bojan - Partizan Belgrade - NO
+sr:player:548304 - Miletic, Nemanja - Partizan Belgrade - NO
+sr:player:138943 - Kosovic, Nebojsa - Partizan Belgrade - NO
+sr:player:80236 - Mitrovic, Milan - Partizan Belgrade - NO
+sr:player:188109 - Antonov, Nemanja - Partizan Belgrade - NO
+sr:player:979123 - Djerlek, Armin - Partizan Belgrade - NO
+sr:player:151911 - Ozegovic, Ognjen - Partizan Belgrade - NO
+sr:player:280827 - Pantic, Danilo - Partizan Belgrade - NO
+sr:player:227226 - Jovicic, Marko - Partizan Belgrade - NO
+sr:player:312170 - Urosevic, Slobodan - Partizan Belgrade - NO
+sr:player:584392 - Miletic, Nemanja - Partizan Belgrade - NO
+sr:player:13691 - Stojkovic, Vladimir - Partizan Belgrade - NO
+sr:player:1265986 - Jovanovic, Strahinja - Partizan Belgrade - NO
+sr:player:934950 - Jovanovic, Djordje - Partizan Belgrade - NO
+sr:player:138813 - Bushchan, Georgiy - FC Dynamo Kiev - NO
+sr:player:31611 - Zambrano, Carlos - FC Dynamo Kiev - NO
+sr:player:123189 - Pantic, Aleksandar - FC Dynamo Kiev - NO
+sr:player:822662 - Dubinchak, Vladyslav - FC Dynamo Kiev - NO
+sr:player:153230 - Verbic, Benjamin - FC Dynamo Kiev - NO
+sr:player:10796 - Rotan, Ruslan - FC Dynamo Kiev - NO
+sr:player:1057513 - Petrusenko, Oleksandr - FC Dynamo Kiev - NO
+sr:player:39567 - Morozyuk, Mykola - FC Dynamo Kiev - NO
+sr:player:860338 - Kazakov, Maksym - FC Dynamo Kiev - NO
+sr:player:850876 - Shepelev, Volodymyr - FC Dynamo Kiev - NO
+sr:player:755650 - Kalyuzhny, Ivan - FC Dynamo Kiev - NO
+sr:player:108426 - Moraes, Aluisio - FC Dynamo Kiev - NO
+sr:player:138816 - Khlobas, Dmytri - FC Dynamo Kiev - NO
+sr:player:319735 - Tsygankov, Viktor - FC Dynamo Kiev - NO
+sr:player:81202 - Sydorchuk, Serhiy - FC Dynamo Kiev - NO
+sr:player:182097 - Korzun, Nikita - FC Dynamo Kiev - NO
+sr:player:69361 - Harmash, Denys - FC Dynamo Kiev - NO
+sr:player:15460 - Gusev, Oleg - FC Dynamo Kiev - NO
+sr:player:826553 - Kravchenko, Mykyta - FC Dynamo Kiev - NO
+sr:player:70623 - Pivaric, Josip - FC Dynamo Kiev - NO
+sr:player:252843 - Gonzalez, Derlis - FC Dynamo Kiev - NO
+sr:player:190453 - Burda, Mykyta - FC Dynamo Kiev - NO
+sr:player:137677 - Buyalskiy, Vitaliy - FC Dynamo Kiev - NO
+sr:player:114171 - Shabanov, Artem - FC Dynamo Kiev - YES
+sr:player:1133953 - Makhankov, Volodimir - FC Dynamo Kiev - NO
+sr:player:69152 - Khacheridi, Yevhen - FC Dynamo Kiev - NO
+sr:player:823310 - Shaparenko, Mykola - FC Dynamo Kiev - NO
+sr:player:576330 - Besedin, Artem - FC Dynamo Kiev - NO
+sr:player:935132 - Mykolenko, Vitalii - FC Dynamo Kiev - NO
+sr:player:822670 - Rusin, Nazary - FC Dynamo Kiev - NO
+sr:player:40679 - Kadar, Tamas - FC Dynamo Kiev - NO
+sr:player:76224 - Kalitvintsev, Vladislav - FC Dynamo Kiev - NO
+sr:player:1316736 - Smirniy, Evgeniy - FC Dynamo Kiev - NO
+sr:player:755658 - Alibekov, Akhmed - FC Dynamo Kiev - NO
+sr:player:848810 - Lednev, Bogdan - FC Dynamo Kiev - NO
+sr:player:68936 - Boyko, Denys - FC Dynamo Kiev - NO
+sr:player:138595 - Kedziora, Tomasz - FC Dynamo Kiev - NO
+sr:player:935154 - Yanakov, Denys - FC Dynamo Kiev - NO
+sr:player:935286 - Alekseev, Vladyslav - FC Dynamo Kiev - NO
+sr:player:935292 - Vantukh, Roman - FC Dynamo Kiev - NO
+sr:player:17801 - Mbokani, Dieumerci - FC Dynamo Kiev - NO
+sr:player:89529 - Rudko, Artur - FC Dynamo Kiev - NO
+sr:player:4472 - Wolfli, Marco - Young Boys Bern - NO
+sr:player:234956 - Burki, Marco - Young Boys Bern - NO
+sr:player:4436 - von Bergen, Steve - Young Boys Bern - NO
+sr:player:234958 - Bertone, Leonardo - Young Boys Bern - NO
+sr:player:18784 - Sulejmani, Miralem - Young Boys Bern - NO
+sr:player:355652 - Sow, Djibril - Young Boys Bern - NO
+sr:player:1013035 - Moumi, Nicolas - Young Boys Bern - NO
+sr:player:775475 - Fassnacht, Christian - Young Boys Bern - NO
+sr:player:791795 - Assale, Roger - Young Boys Bern - NO
+sr:player:231614 - Nsame, Jean-Pierre - Young Boys Bern - NO
+sr:player:66219 - Schick, Thorsten - Young Boys Bern - NO
+sr:player:1046377 - Aebischer, Michel - Young Boys Bern - NO
+sr:player:331465 - Wuthrich, Gregory - Young Boys Bern - NO
+sr:player:67308 - Benito, Loris - Young Boys Bern - NO
+sr:player:609706 - Nuhu, Kasim - Young Boys Bern - NO
+sr:player:242883 - von Ballmoos, David - Young Boys Bern - NO
+sr:player:985181 - Teixeira, Pedro - Young Boys Bern - NO
+sr:player:841577 - Lotomba, Jordan - Young Boys Bern - NO
+sr:player:126879 - Letellier, Alexandre - Young Boys Bern - NO
+sr:player:144745 - Sanogo, Sekou - Young Boys Bern - NO
+sr:player:848726 - Marzino, Dario - Young Boys Bern - NO
+sr:player:227900 - Mbabu, Kevin - Young Boys Bern - NO
+sr:player:37230 - Hoarau, Guillaume - Young Boys Bern - NO
+sr:player:611714 - Dajsinani, Mario - Skenderbeu Korce - NO
+sr:player:81131 - Shehi, Orges - Skenderbeu Korce - NO
+sr:player:360548 - Jashanica, Bajram - Skenderbeu Korce - NO
+sr:player:385296 - Aliti, Fidan - Skenderbeu Korce - NO
+sr:player:1337814 - Kocibelli, Elvis - Skenderbeu Korce - NO
+sr:player:1337812 - Tako, Anesti - Skenderbeu Korce - NO
+sr:player:183343 - Mici, Gledi - Skenderbeu Korce - NO
+sr:player:1261672 - Beneyam - Skenderbeu Korce - NO
+sr:player:10841 - Osmani, Tefik - Skenderbeu Korce - NO
+sr:player:94577 - Dita, Bruno - Skenderbeu Korce - NO
+sr:player:87491 - Radas, Marko - Skenderbeu Korce - NO
+sr:player:950602 - Mara, Uerdi - Skenderbeu Korce - NO
+sr:player:136304 - Teqja, Aldo - Skenderbeu Korce - NO
+sr:player:798150 - Gripshi, Nazmi - Skenderbeu Korce - NO
+sr:player:1337818 - Berisha, Ardit - Skenderbeu Korce - NO
+sr:player:608968 - Sahiti, Suad - Skenderbeu Korce - NO
+sr:player:17474 - Vangjeli, Kristi - Skenderbeu Korce - NO
+sr:player:1337824 - Bregasi, Klaus - Skenderbeu Korce - NO
+sr:player:283111 - Gavazaj, Enis - Skenderbeu Korce - NO
+sr:player:312996 - Nimaga, Bakary - Skenderbeu Korce - NO
+sr:player:336437 - Abazi, Leonit - Skenderbeu Korce - NO
+sr:player:55143 - Vila, Emiljano - Skenderbeu Korce - NO
+sr:player:55141 - Muzaka, Gjergj - Skenderbeu Korce - NO
+sr:player:1028201 - Pellumbi, Jorgo - Skenderbeu Korce - NO
+sr:player:121608 - Taku, Afrim - Skenderbeu Korce - NO
+sr:player:289183 - Adeniyi, James - Skenderbeu Korce - NO
+sr:player:67699 - Lilaj, Sabien - Skenderbeu Korce - NO
+sr:player:238394 - Sowe, Ali - Skenderbeu Korce - NO
+sr:player:1337822 - Liqeri, Eqerem - Skenderbeu Korce - NO
+sr:player:326791 - Krasniqi, Blerim - Skenderbeu Korce - NO
+sr:player:603946 - Magalhaes, Matheus - Sporting Braga - NO
+sr:player:143609 - Diogo Figueiras - Sporting Braga - NO
+sr:player:177175 - Rosic, Lazar - Sporting Braga - NO
+sr:player:39693 - Jefferson - Sporting Braga - NO
+sr:player:170117 - Sequeira, Nuno - Sporting Braga - NO
+sr:player:105404 - Eduardo, Wilson - Sporting Braga - NO
+sr:player:1385259 - Ryller, Ricardo - Sporting Braga - YES
+sr:player:159679 - Koka - Sporting Braga - NO
+sr:player:978073 - Xadas, Bruno - Sporting Braga - NO
+sr:player:330063 - Danilo - Sporting Braga - NO
+sr:player:344159 - Sa, Tiago - Sporting Braga - NO
+sr:player:775699 - Horta, Andre - Sporting Braga - NO
+sr:player:283853 - Muric, Robert - Sporting Braga - NO
+sr:player:205790 - Paulinho - Sporting Braga - NO
+sr:player:314380 - Ricardo Horta - Sporting Braga - NO
+sr:player:97006 - Teixeira, Joao Carlos - Sporting Braga - NO
+sr:player:137973 - Ferreira, Ricardo - Sporting Braga - NO
+sr:player:193064 - Martins, Fabio - Sporting Braga - NO
+sr:player:84847 - Fransergio - Sporting Braga - NO
+sr:player:59715 - Marafona - Sporting Braga - NO
+sr:player:1266960 - Erick - Sporting Braga - NO
+sr:player:551812 - Raul Silva - Sporting Braga - NO
+sr:player:67739 - Vukcevic, Nikola - Sporting Braga - NO
+sr:player:869302 - Viana, Bruno - Sporting Braga - NO
+sr:player:284843 - Lukic, Andrej - Sporting Braga - NO
+sr:player:816572 - Mamadou Loum - Sporting Braga - NO
+sr:player:97000 - Esgaio, Ricardo - Sporting Braga - NO
+sr:player:885100 - Singh, Luther - Sporting Braga - NO
+sr:player:167869 - Mauro - Sporting Braga - NO
+sr:player:351502 - Thales - Sporting Braga - NO
+sr:player:283115 - Didi - Sporting Braga - NO
+sr:player:270291 - Marcelo Goiano - Sporting Braga - NO
+sr:player:867688 - Pereira, Tiago - Sporting Braga - NO
+sr:player:825997 - Ferrugem, Lucas - Sporting Braga - NO
+sr:player:1248370 - Jonata - Sporting Braga - NO
+sr:player:128360 - Sousa, Dyego - Sporting Braga - NO
+sr:player:802472 - Broun, Jorge - Ludogorets Razgrad - NO
+sr:player:838393 - Forster, Rafael - Ludogorets Razgrad - NO
+sr:player:243271 - Cicinho - Ludogorets Razgrad - NO
+sr:player:76015 - Terziev, Georgi - Ludogorets Razgrad - NO
+sr:player:386088 - Natanael - Ludogorets Razgrad - NO
+sr:player:123225 - Sasha, Lucas - Ludogorets Razgrad - NO
+sr:player:220094 - Campanharo, Gustavo - Ludogorets Razgrad - NO
+sr:player:156746 - Quixada, Juninho - Ludogorets Razgrad - NO
+sr:player:72728 - Abel, Anicet - Ludogorets Razgrad - NO
+sr:player:41123 - Dyakov, Svetoslav - Ludogorets Razgrad - NO
+sr:player:1103293 - Vasilev, Aleksandar - Ludogorets Razgrad - NO
+sr:player:56016 - Stoyanov, Vladislav - Ludogorets Razgrad - NO
+sr:player:361770 - Kerchev, Ventsislav - Ludogorets Razgrad - NO
+sr:player:78203 - Panov, Tsvetomir - Ludogorets Razgrad - NO
+sr:player:3164 - Keseru, Claudiu - Ludogorets Razgrad - NO
+sr:player:13586 - Moti, Cosmin - Ludogorets Razgrad - NO
+sr:player:96810 - Plastun, Igor - Ludogorets Razgrad - NO
+sr:player:39999 - Renan - Ludogorets Razgrad - NO
+sr:player:1057301 - Valchev, Stanislav - Ludogorets Razgrad - YES
+sr:player:558796 - Kitov, Kristiyan - Ludogorets Razgrad - NO
+sr:player:177179 - Goralski, Jacek - Ludogorets Razgrad - NO
+sr:player:973335 - Klimentov, Ivaylo - Ludogorets Razgrad - NO
+sr:player:1141328 - Yankov, Dominik - Ludogorets Razgrad - NO
+sr:player:158055 - Swierczok, Jakub - Ludogorets Razgrad - NO
+sr:player:1056867 - Dost, Erol - Ludogorets Razgrad - NO
+sr:player:779572 - Yusufov, Serdar - Ludogorets Razgrad - NO
+sr:player:156745 - Marcelinho - Ludogorets Razgrad - NO
+sr:player:348650 - Wanderson - Ludogorets Razgrad - NO
+sr:player:137645 - Lukoki, Jody - Ludogorets Razgrad - NO
+sr:player:148623 - Vura - Ludogorets Razgrad - NO
+sr:player:604894 - Kovachev, Svetoslav - Ludogorets Razgrad - NO
+sr:player:30143 - Babacan, Volkan - Basaksehir FK - NO
+sr:player:532 - Clichy, Gael - Basaksehir FK - NO
+sr:player:332963 - Attamah, Joseph - Basaksehir FK - NO
+sr:player:2054 - Belozoglu, Emre - Basaksehir FK - NO
+sr:player:18577 - Epureanu, Alexandru - Basaksehir FK - NO
+sr:player:109779 - Visca, Edin - Basaksehir FK - NO
+sr:player:42293 - Mossoro, Marcio - Basaksehir FK - NO
+sr:player:3094 - Adebayor, Emmanuel - Basaksehir FK - NO
+sr:player:10668 - Elia, Eljero - Basaksehir FK - NO
+sr:player:605898 - Kivanc, Ahmet - Basaksehir FK - NO
+sr:player:5702 - Turan, Arda - Basaksehir FK - NO
+sr:player:331751 - Bajic, Riad - Basaksehir FK - NO
+sr:player:226986 - Kahveci, Irfan - Basaksehir FK - NO
+sr:player:46939 - Napoleoni, Stefano - Basaksehir FK - NO
+sr:player:35584 - Erdinc, Mevlut - Basaksehir FK - NO
+sr:player:43666 - Tekdemir, Mahmut - Basaksehir FK - NO
+sr:player:27027 - Chedjou, Aurelien - Basaksehir FK - NO
+sr:player:30241 - Torun, Tunay - Basaksehir FK - NO
+sr:player:14246 - Da Costa, Manuel - Basaksehir FK - NO
+sr:player:157014 - Frei, Kerim - Basaksehir FK - NO
+sr:player:5713 - Ucar, Ugur - Basaksehir FK - NO
+sr:player:39573 - Gunok, Mert - Basaksehir FK - NO
+sr:player:26683 - Erdem, Alparslan - Basaksehir FK - NO
+sr:player:43711 - Korkmaz, Egemen - Basaksehir FK - NO
+sr:player:555552 - Cakir, Faruk - Basaksehir FK - NO
+sr:player:1082970 - Saracoglu, Okan - Basaksehir FK - NO
+sr:player:1108303 - Bala, Oktay - Basaksehir FK - NO
+sr:player:128440 - Caicara, Junior - Basaksehir FK - NO
+sr:player:4252 - Inler, Gokhan - Basaksehir FK - NO
+sr:player:945452 - Subasi, Enes - Basaksehir FK - NO
+sr:player:40244 - Baumann, Oliver - 1899 Hoffenheim - NO
+sr:player:109296 - Kaderabek, Pavel - 1899 Hoffenheim - NO
+sr:player:103012 - Bicakcic, Ermin - 1899 Hoffenheim - NO
+sr:player:22337 - Nordtveit, Haavard - 1899 Hoffenheim - NO
+sr:player:56601 - Rupp, Lukas - 1899 Hoffenheim - NO
+sr:player:176 - Polanski, Eugen - 1899 Hoffenheim - NO
+sr:player:142619 - Demirbay, Kerem - 1899 Hoffenheim - NO
+sr:player:186719 - Grillitsch, Florian - 1899 Hoffenheim - NO
+sr:player:97925 - Schulz, Nico - 1899 Hoffenheim - NO
+sr:player:37752 - Zuber, Steven - 1899 Hoffenheim - NO
+sr:player:327755 - Amiri, Nadiem - 1899 Hoffenheim - NO
+sr:player:110508 - Uth, Mark - 1899 Hoffenheim - NO
+sr:player:121613 - Zulj, Robert - 1899 Hoffenheim - NO
+sr:player:35921 - Hubner, Benjamin - 1899 Hoffenheim - NO
+sr:player:48660 - Vogt, Kevin - 1899 Hoffenheim - NO
+sr:player:966407 - Hoogma, Justin - 1899 Hoffenheim - NO
+sr:player:187423 - Akpoguma, Kevin - 1899 Hoffenheim - NO
+sr:player:939282 - Otto, David - 1899 Hoffenheim - NO
+sr:player:67647 - Kramaric, Andrej - 1899 Hoffenheim - NO
+sr:player:16776 - Szalai, Adam - 1899 Hoffenheim - NO
+sr:player:187433 - Gnabry, Serge - 1899 Hoffenheim - NO
+sr:player:822562 - Passlack, Felix - 1899 Hoffenheim - NO
+sr:player:822598 - Geiger, Dennis - 1899 Hoffenheim - NO
+sr:player:9857 - Stolz, Alexander - 1899 Hoffenheim - NO
+sr:player:878112 - Skenderovic, Meris - 1899 Hoffenheim - NO
+sr:player:556866 - Kobel, Gregor - 1899 Hoffenheim - NO
+sr:player:878110 - Hack, Robin - 1899 Hoffenheim - NO
+sr:player:355486 - Posch, Stefan - 1899 Hoffenheim - NO
+sr:player:612650 - Buhler, Johannes - 1899 Hoffenheim - NO
+sr:player:612636 - Rossipal, Alex - 1899 Hoffenheim - NO
+sr:player:572834 - Waack, Maximilian - 1899 Hoffenheim - NO
+sr:player:612520 - Wahling, Nicolas - 1899 Hoffenheim - NO
+sr:player:282975 - Barkas, Vasilis - AEK Athens FC - NO
+sr:player:89995 - Bakakis, Michalis - AEK Athens FC - NO
+sr:player:138740 - Lopes, Helder - AEK Athens FC - NO
+sr:player:44310 - Vranjes, Ognjen - AEK Athens FC - NO
+sr:player:32993 - Lambropoulos, Vasilis - AEK Athens FC - NO
+sr:player:50037 - Ajdarevic, Astrit - AEK Athens FC - NO
+sr:player:13667 - Christodoulopoulos, Lazaros - AEK Athens FC - NO
+sr:player:169945 - Simoes, Andre - AEK Athens FC - NO
+sr:player:277365 - Giakoumakis, Giorgos - AEK Athens FC - NO
+sr:player:94226 - Livaja, Marko - AEK Athens FC - NO
+sr:player:122621 - Araujo, Sergio - AEK Athens FC - NO
+sr:player:59802 - Galo, Rodrigo - AEK Athens FC - NO
+sr:player:114076 - Bakasetas, Tasos - AEK Athens FC - NO
+sr:player:94531 - Cosic, Uros - AEK Athens FC - NO
+sr:player:105309 - Tsintotas, Panagiotis - AEK Athens FC - NO
+sr:player:22070 - Johansson, Jakob - AEK Athens FC - NO
+sr:player:14850 - Chygrynskiy, Dmytro - AEK Athens FC - NO
+sr:player:80465 - Mantalos, Petros - AEK Athens FC - NO
+sr:player:19173 - Kone, Panagiotis - AEK Athens FC - NO
+sr:player:212832 - Anestis, Giannis - AEK Athens FC - NO
+sr:player:49866 - Hult, Niklas - AEK Athens FC - NO
+sr:player:15566 - Shojaei, Masoud - AEK Athens FC - NO
+sr:player:925182 - Galanopoulos, Kostas - AEK Athens FC - NO
+sr:player:146109 - Klonaridis, Viktor - AEK Athens FC - NO
+sr:player:385282 - Melikiotis, Dimitris - AEK Athens FC - NO
+sr:player:1060421 - Babis, Paris - AEK Athens FC - NO
+sr:player:755690 - Giannoutsos, Georgios - AEK Athens FC - NO
+sr:player:99520 - Moran, Erik - AEK Athens FC - NO
+sr:player:340341 - Tzanetopoulos, Adam - AEK Athens FC - NO
+sr:player:1060409 - Antoniou, Christos - AEK Athens FC - NO
+sr:player:1060471 - Giousis, Christos - AEK Athens FC - NO
+sr:player:848722 - Dounis, Panagiotis - AEK Athens FC - NO
+sr:player:1027747 - Ikuepamitan, Ayotunde - HNK Rijeka - NO
+sr:player:804950 - Nwolokor, David - HNK Rijeka - NO
+sr:player:51246 - Puncec, Roberto - HNK Rijeka - NO
+sr:player:904302 - Escoval, Joao - HNK Rijeka - YES
+sr:player:117692 - Kvrzic, Zoran - HNK Rijeka - NO
+sr:player:228338 - Zuta, Leonard - HNK Rijeka - NO
+sr:player:243499 - Heber - HNK Rijeka - NO
+sr:player:2035 - Bojinov, Valeri - HNK Rijeka - NO
+sr:player:67670 - Crnic, Matic - HNK Rijeka - NO
+sr:player:94234 - Sluga, Simon - HNK Rijeka - NO
+sr:player:137090 - Zuparic, Dario - HNK Rijeka - NO
+sr:player:105763 - Acosty, Maxwell - HNK Rijeka - NO
+sr:player:73293 - Grahovac, Srdjan - HNK Rijeka - YES
+sr:player:142395 - Colak, Antonio - HNK Rijeka - YES
+sr:player:27179 - Gorgon, Alexander - HNK Rijeka - NO
+sr:player:94238 - Puljic, Jakov - HNK Rijeka - NO
+sr:player:335213 - Ajayi, Goodness - HNK Rijeka - NO
+sr:player:566992 - Dangubic, Filip - HNK Rijeka - NO
+sr:player:94239 - Pavicic, Domagoj - HNK Rijeka - NO
+sr:player:138935 - Raspopovic, Momcilo - HNK Rijeka - YES
+sr:player:37433 - Leovac, Marin - HNK Rijeka - NO
+sr:player:257153 - Bradaric, Filip - HNK Rijeka - NO
+sr:player:190665 - Capan, Luka - HNK Rijeka - NO
+sr:player:50516 - Prskalo, Andrej - HNK Rijeka - NO
+sr:player:98222 - Mavrias, Charalampos - HNK Rijeka - NO
+sr:player:36818 - Sharbini, Anas - HNK Rijeka - NO
+sr:player:1373611 - Lepinjica, Ivan - HNK Rijeka - NO
+sr:player:761112 - Ristovski, Milan - HNK Rijeka - NO
+sr:player:70626 - Jelic, Matej - HNK Rijeka - NO
+sr:player:935014 - Celikovic, Jasmin - HNK Rijeka - NO
+sr:player:190159 - Silva, Andre - AC Milan - NO
+sr:player:135700 - Calhanoglu, Hakan - AC Milan - NO
+sr:player:12673 - Zapata, Cristian - AC Milan - NO
+sr:player:329611 - Vergara, Jherson - AC Milan - NO
+sr:player:318607 - Calabria, Davide - AC Milan - NO
+sr:player:558800 - Mastour, Hachim - AC Milan - NO
+sr:player:284359 - Mauri, Jose - AC Milan - NO
+sr:player:36784 - Bonaventura, Giacomo - AC Milan - NO
+sr:player:31273 - Kalinic, Nikola - AC Milan - NO
+sr:player:96370 - Suso - AC Milan - NO
+sr:player:89510 - Borini, Fabio - AC Milan - NO
+sr:player:139262 - Conti, Andrea - AC Milan - NO
+sr:player:227864 - Romagnoli, Alessio - AC Milan - NO
+sr:player:220833 - Gomez, Gustavo - AC Milan - NO
+sr:player:1830 - Montolivo, Riccardo - AC Milan - NO
+sr:player:15444 - Bonucci, Leonardo - AC Milan - NO
+sr:player:27916 - Abate, Ignazio - AC Milan - NO
+sr:player:17799 - Biglia, Lucas - AC Milan - NO
+sr:player:34125 - Musacchio, Mateo - AC Milan - NO
+sr:player:2770 - Storari, Marco - AC Milan - NO
+sr:player:19172 - Antonelli, Luca - AC Milan - NO
+sr:player:936722 - Gabbia, Matteo - AC Milan - NO
+sr:player:936704 - Bellanova, Raoul - AC Milan - NO
+sr:player:1404379 - Torrasi, Emanuele - AC Milan - YES
+sr:player:756556 - Cutrone, Patrick - AC Milan - NO
+sr:player:1252232 - Soncin, Matteo - AC Milan - NO
+sr:player:67769 - Rodriguez, Ricardo - AC Milan - NO
+sr:player:363860 - Locatelli, Manuel - AC Milan - NO
+sr:player:1413845 - Tsadjout, Frank - AC Milan - YES
+sr:player:1081806 - Guarnone, Alessandro - AC Milan - NO
+sr:player:904318 - Dias, Tiago - AC Milan - NO
+sr:player:359226 - Kessie, Franck - AC Milan - NO
+sr:player:125921 - Donnarumma, Antonio - AC Milan - NO
+sr:player:756514 - Donnarumma, Gianluigi - AC Milan - NO
+sr:player:125911 - Oduamadi, Nnamdi - AC Milan - NO
+sr:player:6944 - Almer, Robert - FK Austria Vienna - NO
+sr:player:282081 - Gluhakovic, Petar - FK Austria Vienna - NO
+sr:player:138328 - Stark, Marco - FK Austria Vienna - NO
+sr:player:1280674 - Ruan - FK Austria Vienna - NO
+sr:player:1061656 - Demaku, Vesel - FK Austria Vienna - NO
+sr:player:1033007 - Mohammed, Abdul - FK Austria Vienna - NO
+sr:player:1272740 - Abdullahi, Ibrahim Alhassan - FK Austria Vienna - NO
+sr:player:138135 - Friesenbichler, Kevin - FK Austria Vienna - NO
+sr:player:24073 - Grunwald, Alexander - FK Austria Vienna - NO
+sr:player:575954 - Venuto, Lucas - FK Austria Vienna - NO
+sr:player:908644 - Monschein, Christoph - FK Austria Vienna - NO
+sr:player:164099 - Serbest, Tarkan - FK Austria Vienna - NO
+sr:player:352366 - Prokop, Dominik - FK Austria Vienna - NO
+sr:player:3786 - Klein, Florian - FK Austria Vienna - NO
+sr:player:2344 - Westermann, Heiko - FK Austria Vienna - NO
+sr:player:352382 - Blauensteiner, Michael - FK Austria Vienna - NO
+sr:player:1134739 - Jin-hyun, Lee - FK Austria Vienna - NO
+sr:player:323679 - Stronati, Patrizio - FK Austria Vienna - NO
+sr:player:1237534 - De Paula, David - FK Austria Vienna - NO
+sr:player:934854 - Borkovic, Alexandar - FK Austria Vienna - NO
+sr:player:37323 - Salamon, Thomas - FK Austria Vienna - NO
+sr:player:95375 - Holzhauser, Raphael - FK Austria Vienna - NO
+sr:player:138139 - Martschinko, Christoph - FK Austria Vienna - NO
+sr:player:6946 - Madl, Michael - FK Austria Vienna - NO
+sr:player:352394 - Hadzikic, Osman - FK Austria Vienna - NO
+sr:player:352392 - Pentz, Patrick - FK Austria Vienna - NO
+sr:player:979541 - Fitz, Dominik - FK Austria Vienna - NO
+sr:player:1099022 - Sarkaria, Manprit - FK Austria Vienna - NO
+sr:player:95374 - Vastic, Toni - FK Austria Vienna - NO
+sr:player:78778 - Stangl, Stefan - FK Austria Vienna - NO
+sr:player:576378 - Pires, Felipe - FK Austria Vienna - NO
+sr:player:1098978 - Kos, Mirko - FK Austria Vienna - NO
+sr:player:174629 - Sachetti, Esteban - Apollon Limassol FC - NO
+sr:player:128286 - Martinez, Nicolas - Apollon Limassol FC - NO
+sr:player:45967 - Da Silva, Alex - Apollon Limassol FC - NO
+sr:player:129668 - Zelaya, Emilio - Apollon Limassol FC - NO
+sr:player:10991 - Makridis, Constantinos - Apollon Limassol FC - NO
+sr:player:898436 - Allan - Apollon Limassol FC - NO
+sr:player:59583 - Joao Pedro - Apollon Limassol FC - NO
+sr:player:94538 - Markovic, Sasa - Apollon Limassol FC - NO
+sr:player:180213 - Jander - Apollon Limassol FC - NO
+sr:player:41021 - Roberge, Valentin - Apollon Limassol FC - NO
+sr:player:88095 - Angeli, Angelis - Apollon Limassol FC - NO
+sr:player:231224 - Stylianou, Marios - Apollon Limassol FC - NO
+sr:player:67594 - Chatzivasilis, Ioannis - Apollon Limassol FC - NO
+sr:player:1015843 - Cedres, Agustin - Apollon Limassol FC - NO
+sr:player:548236 - Spoljaric, Matija - Apollon Limassol FC - NO
+sr:player:105738 - Papoulis, Fotis - Apollon Limassol FC - NO
+sr:player:18546 - Schembri, Andre - Apollon Limassol FC - NO
+sr:player:1233836 - Papacharalambous, Michalis - Apollon Limassol FC - NO
+sr:player:83905 - Yuste - Apollon Limassol FC - NO
+sr:player:42083 - Kissas, Tasos - Apollon Limassol FC - NO
+sr:player:1431053 - Vasiliadis, Giannis - Apollon Limassol FC - YES
+sr:player:834955 - Pittas, Ioannis - Apollon Limassol FC - NO
+sr:player:1010115 - Sylvestros, Evdoras - Apollon Limassol FC - NO
+sr:player:366908 - Pitian, Andrei - Apollon Limassol FC - NO
+sr:player:1010113 - Papastylianou, Michalis - Apollon Limassol FC - NO
+sr:player:84502 - Sardinero, Adrian - Apollon Limassol FC - NO
+sr:player:5877 - Vale, Bruno - Apollon Limassol FC - NO
+sr:player:53921 - Vasiliou, Giorgos - Apollon Limassol FC - NO
+sr:player:555568 - Sofroniou, Ellinas - Apollon Limassol FC - NO
+sr:player:51157 - Jakolis, Antonio - Apollon Limassol FC - NO
+sr:player:329121 - Alef - Apollon Limassol FC - NO
+sr:player:93729 - Maglica, Anton - Apollon Limassol FC - NO
+sr:player:48535 - Lopes, Anthony - Olympique Lyon - NO
+sr:player:51392 - Yanga-Mbiwa, Mapou - Olympique Lyon - NO
+sr:player:39623 - da Silva, Rafael - Olympique Lyon - NO
+sr:player:820984 - Diakhaby, Mouctar - Olympique Lyon - NO
+sr:player:36704 - Marcelo - Olympique Lyon - NO
+sr:player:936084 - Aouar, Houssem - Olympique Lyon - NO
+sr:player:175753 - Diaz, Mariano - Olympique Lyon - NO
+sr:player:218160 - Traore, Bertrand - Olympique Lyon - NO
+sr:player:138833 - Depay, Memphis - Olympique Lyon - NO
+sr:player:123229 - Ferri, Jordan - Olympique Lyon - NO
+sr:player:1118037 - Geubbels, Willem - Olympique Lyon - NO
+sr:player:16429 - Morel, Jeremy - Olympique Lyon - NO
+sr:player:862528 - Mocio, Lucas - Olympique Lyon - NO
+sr:player:936104 - Maolida, Myziane - Olympique Lyon - NO
+sr:player:337671 - Fekir, Nabil - Olympique Lyon - NO
+sr:player:1057341 - Gouiri, Amine - Olympique Lyon - NO
+sr:player:143593 - Marcal, Fernando - Olympique Lyon - NO
+sr:player:815912 - Mendy, Ferland - Olympique Lyon - NO
+sr:player:190877 - Tete, Kenny - Olympique Lyon - NO
+sr:player:792825 - Diop, Pape - Olympique Lyon - NO
+sr:player:1251874 - Solet, Oumar - Olympique Lyon - YES
+sr:player:280439 - Cornet, Maxwel - Olympique Lyon - NO
+sr:player:1012411 - Ndombele, Tanguy - Olympique Lyon - NO
+sr:player:795310 - Tousart, Lucas - Olympique Lyon - NO
+sr:player:123226 - Gorgelin, Mathieu - Olympique Lyon - NO
+sr:player:191198 - Nganioni, Louis - Olympique Lyon - NO
+sr:player:936088 - Owusu, Elisha - Olympique Lyon - NO
+sr:player:280449 - Grange, Dorian - Olympique Lyon - NO
+sr:player:138530 - Pickford, Jordan - Everton FC - NO
+sr:player:27009 - Schneiderlin, Morgan - Everton FC - NO
+sr:player:9766 - Baines, Leighton - Everton FC - NO
+sr:player:110846 - Keane, Michael - Everton FC - NO
+sr:player:20204 - Williams, Ashley - Everton FC - NO
+sr:player:10507 - Jagielka, Phil - Everton FC - NO
+sr:player:46620 - Bolasie, Yannick - Everton FC - NO
+sr:player:751 - Rooney, Wayne - Everton FC - NO
+sr:player:10501 - Walcott, Theo - Everton FC - NO
+sr:player:42892 - Mangala, Eliaquim - Everton FC - NO
+sr:player:72127 - Tosun, Cenk - Everton FC - YES
+sr:player:73763 - Martina, Cuco - Everton FC - NO
+sr:player:39283 - McCarthy, James - Everton FC - NO
+sr:player:106337 - Gueye, Idrissa - Everton FC - NO
+sr:player:43192 - Sigurdsson, Gylfi - Everton FC - NO
+sr:player:226780 - Niasse, Oumar - Everton FC - NO
+sr:player:97410 - Klaassen, Davy - Everton FC - NO
+sr:player:1941 - Stekelenburg, Maarten - Everton FC - NO
+sr:player:76632 - Coleman, Seamus - Everton FC - NO
+sr:player:186991 - Tarashaj, Shani - Everton FC - NO
+sr:player:252313 - Funes Mori, Ramiro - Everton FC - NO
+sr:player:769103 - Davies, Tom - Everton FC - NO
+sr:player:357596 - Vlasic, Nikola - Everton FC - NO
+sr:player:372344 - Calvert-Lewin, Dominic - Everton FC - NO
+sr:player:781544 - Holgate, Mason - Everton FC - NO
+sr:player:93796 - Robles, Joel - Everton FC - NO
+sr:player:98429 - Garbutt, Luke - Everton FC - NO
+sr:player:855600 - Hewelt, Mateusz - Everton FC - NO
+sr:player:361310 - Kenny, Jonjoe - Everton FC - NO
+sr:player:990235 - Feeney, Morgan - Everton FC - NO
+sr:player:1342896 - Baningime, Beni - Everton FC - NO
+sr:player:758396 - Broadhead, Nathan - Everton FC - NO
+sr:player:1089774 - Denny, Alex - Everton FC - NO
+sr:player:789203 - Lavery, Shayne - Everton FC - NO
+sr:player:979095 - Hornby, Fraser - Everton FC - NO
+sr:player:1373591 - Duke-Mckenna, Stephen - Everton FC - NO
+sr:player:1373593 - Collins, Michael - Everton FC - NO
+sr:player:1373595 - Gordon, Anthony - Everton FC - NO
+sr:player:35656 - Berisha, Etrit - Atalanta Bergamasca - NO
+sr:player:82943 - Toloi, Rafael - Atalanta Bergamasca - NO
+sr:player:186855 - Cristante, Bryan - Atalanta Bergamasca - NO
+sr:player:17814 - Masiello, Andrea - Atalanta Bergamasca - NO
+sr:player:79680 - Palomino, Jose Luis - Atalanta Bergamasca - NO
+sr:player:377118 - Gosens, Robin - Atalanta Bergamasca - NO
+sr:player:183483 - Cornelius, Andreas - Atalanta Bergamasca - NO
+sr:player:33381 - Gomez, Papu - Atalanta Bergamasca - NO
+sr:player:115516 - Freuler, Remo - Atalanta Bergamasca - NO
+sr:player:362222 - Caldara, Mattia - Atalanta Bergamasca - NO
+sr:player:100389 - De Roon, Marten - Atalanta Bergamasca - NO
+sr:player:177295 - Rizzo, Luca - Atalanta Bergamasca - NO
+sr:player:329417 - Castagne, Timothy - Atalanta Bergamasca - NO
+sr:player:756534 - Melegoni, Filippo - Atalanta Bergamasca - NO
+sr:player:611210 - Mancini, Gianluca - Atalanta Bergamasca - NO
+sr:player:295973 - Petagna, Andrea - Atalanta Bergamasca - NO
+sr:player:80074 - Rossi, Francesco - Atalanta Bergamasca - NO
+sr:player:587126 - Haas, Nicolas - Atalanta Bergamasca - NO
+sr:player:356352 - Hateboer, Hans - Atalanta Bergamasca - NO
+sr:player:148899 - Spinazzola, Leonardo - Atalanta Bergamasca - NO
+sr:player:41270 - Ilicic, Josip - Atalanta Bergamasca - NO
+sr:player:244591 - Schmidt, Joao - Atalanta Bergamasca - NO
+sr:player:329175 - Gollini, Pierluigi - Atalanta Bergamasca - NO
+sr:player:936710 - Bastoni, Alessandro - Atalanta Bergamasca - NO
+sr:player:1435267 - Elia, Salvatore - Atalanta Bergamasca - YES
+sr:player:1380815 - Barrow, Musa - Atalanta Bergamasca - NO
+sr:player:30822 - Guilherme - FC Lokomotiv Moscow - NO
+sr:player:12982 - Fernandes, Manuel - FC Lokomotiv Moscow - NO
+sr:player:45372 - Pejcinovic, Nemanja - FC Lokomotiv Moscow - NO
+sr:player:2511 - Farfan, Jefferson - FC Lokomotiv Moscow - NO
+sr:player:27704 - Ari - FC Lokomotiv Moscow - NO
+sr:player:48641 - Kasaev, Alan - FC Lokomotiv Moscow - NO
+sr:player:190357 - Koryan, Arshak - FC Lokomotiv Moscow - NO
+sr:player:18488 - Corluka, Vedran - FC Lokomotiv Moscow - NO
+sr:player:18052 - Mykhalyk, Taras - FC Lokomotiv Moscow - NO
+sr:player:116857 - Kolomeytsev, Alesandr - FC Lokomotiv Moscow - NO
+sr:player:46160 - Ignatjev, Vladislav - FC Lokomotiv Moscow - NO
+sr:player:778300 - Natcho, Amir - FC Lokomotiv Moscow - NO
+sr:player:23984 - Tarasov, Dmitri - FC Lokomotiv Moscow - NO
+sr:player:43739 - Eder - FC Lokomotiv Moscow - NO
+sr:player:13292 - Denisov, Igor - FC Lokomotiv Moscow - NO
+sr:player:43160 - Rotenberg, Boris - FC Lokomotiv Moscow - NO
+sr:player:13302 - Denisov, Vitali - FC Lokomotiv Moscow - NO
+sr:player:574226 - Medvedev, Nikita - FC Lokomotiv Moscow - NO
+sr:player:44987 - Rybus, Maciej - FC Lokomotiv Moscow - NO
+sr:player:95636 - Kvirkvelia, Saba - FC Lokomotiv Moscow - NO
+sr:player:318961 - Barinov, Dmitri - FC Lokomotiv Moscow - NO
+sr:player:227444 - Lobantsev, Miroslav - FC Lokomotiv Moscow - NO
+sr:player:994101 - Lapshov, Ivan - FC Lokomotiv Moscow - NO
+sr:player:758574 - Galadzhan, Artem - FC Lokomotiv Moscow - NO
+sr:player:324353 - Miranchuk, Aleksey - FC Lokomotiv Moscow - NO
+sr:player:358746 - Miranchuk, Anton - FC Lokomotiv Moscow - NO
+sr:player:994107 - Tugarev, Roman - FC Lokomotiv Moscow - NO
+sr:player:1133093 - Kyurdzhiev, Georgi - FC Lokomotiv Moscow - NO
+sr:player:994113 - Kulikov, Daniil - FC Lokomotiv Moscow - NO
+sr:player:25241 - Kochenkov, Anton - FC Lokomotiv Moscow - NO
+sr:player:758578 - Lysov, Mikhail - FC Lokomotiv Moscow - NO
+sr:player:758560 - Galanin, Ivan - FC Lokomotiv Moscow - NO
+sr:player:15654 - Andersen, Stephan - FC Copenhagen - NO
+sr:player:7085 - Bengtsson, Pierre - FC Copenhagen - NO
+sr:player:7696 - Johansson, Erik - FC Copenhagen - NO
+sr:player:8521 - Kvist, William - FC Copenhagen - NO
+sr:player:94287 - Fischer, Viktor - FC Copenhagen - NO
+sr:player:63273 - Matic, Uros - FC Copenhagen - NO
+sr:player:46972 - Santander, Federico - FC Copenhagen - NO
+sr:player:125584 - Zeca - FC Copenhagen - NO
+sr:player:157637 - Pavlovic, Andrija - FC Copenhagen - NO
+sr:player:180477 - Thomsen, Nicolaj - FC Copenhagen - NO
+sr:player:1050 - Antonsson, Mikael - FC Copenhagen - NO
+sr:player:72903 - Gregus, Jan - FC Copenhagen - NO
+sr:player:935526 - Roerslev, Mads - FC Copenhagen - NO
+sr:player:293127 - Vavro, Denis - FC Copenhagen - NO
+sr:player:95443 - Boilesen, Nicolai - FC Copenhagen - NO
+sr:player:31742 - Koteles, Laszlo - FC Copenhagen - YES
+sr:player:113700 - Ankersen, Peter - FC Copenhagen - NO
+sr:player:935554 - Wind, Jonas - FC Copenhagen - YES
+sr:player:150630 - Toutouh, Youssef - FC Copenhagen - NO
+sr:player:26025 - Olsen, Robin - FC Copenhagen - NO
+sr:player:979089 - Holse, Carlo - FC Copenhagen - NO
+sr:player:135603 - Luftner, Michael - FC Copenhagen - NO
+sr:player:97060 - Sotiriou, Pieros - FC Copenhagen - NO
+sr:player:327863 - Skov, Robert - FC Copenhagen - YES
+sr:player:116660 - Falk, Rasmus - FC Copenhagen - NO
+sr:player:359232 - Keita, Aboubakar - FC Copenhagen - NO
+sr:player:8530 - Christensen, Kim - FC Copenhagen - NO
+sr:player:18818 - Zlamal, Zdenek - FC Fastav Zlin - NO
+sr:player:151927 - Hronek, Petr - FC Fastav Zlin - NO
+sr:player:122190 - Zeleznik, Lukas - FC Fastav Zlin - NO
+sr:player:23859 - Jiracek, Petr - FC Fastav Zlin - NO
+sr:player:134925 - Vyhnal, Pavel - FC Fastav Zlin - NO
+sr:player:174895 - Beauguel, Jean David - FC Fastav Zlin - NO
+sr:player:110483 - Dzafic, Adnan - FC Fastav Zlin - NO
+sr:player:546354 - Traore, Ibrahim Benjamin - FC Fastav Zlin - NO
+sr:player:12521 - Janicek, Tomas - FC Fastav Zlin - NO
+sr:player:188311 - Holzer, Daniel - FC Fastav Zlin - NO
+sr:player:78862 - Matejov, Robert - FC Fastav Zlin - NO
+sr:player:45756 - Dostal, Stanislav - FC Fastav Zlin - NO
+sr:player:368346 - Gajic, Zoran - FC Fastav Zlin - NO
+sr:player:284655 - Bijimine, Jonathan - FC Fastav Zlin - NO
+sr:player:134073 - Hnanicek, Josef - FC Fastav Zlin - NO
+sr:player:77043 - Bartosak, Lukas - FC Fastav Zlin - NO
+sr:player:151791 - Kopecny, Milos - FC Fastav Zlin - NO
+sr:player:982431 - Baco, Ondrej - FC Fastav Zlin - NO
+sr:player:1010921 - Ekpai, Ubong - FC Fastav Zlin - NO
+sr:player:211220 - Nzembi, Duval - FC Fastav Zlin - NO
+sr:player:937030 - Slamena, Patrik - FC Fastav Zlin - YES
+sr:player:901994 - Siska, Jan - FC Fastav Zlin - NO
+sr:player:23910 - Svenger, Milan - FC Fastav Zlin - NO
+sr:player:122905 - Vukadinovic, Vukadin - FC Fastav Zlin - NO
+sr:player:174177 - Mehanovic, Mirzad - FC Fastav Zlin - NO
+sr:player:1059911 - Bardis, Maxim - FC Sheriff Tiraspol - NO
+sr:player:12355 - Pascenco, Serghei - FC Sheriff Tiraspol - NO
+sr:player:129878 - Mikulic, Zvonimir - FC Sheriff Tiraspol - NO
+sr:player:55391 - Balima, Wilfried - FC Sheriff Tiraspol - NO
+sr:player:1145006 - Cristiano - FC Sheriff Tiraspol - NO
+sr:player:55588 - Juric, Serghei - FC Sheriff Tiraspol - NO
+sr:player:280927 - Oancea, Evgheni - FC Sheriff Tiraspol - NO
+sr:player:46424 - Kulusic, Ante - FC Sheriff Tiraspol - NO
+sr:player:63766 - Susic, Mateo - FC Sheriff Tiraspol - NO
+sr:player:66350 - Posmac, Veaceslav - FC Sheriff Tiraspol - NO
+sr:player:312390 - Kovacic, Dominik - FC Sheriff Tiraspol - NO
+sr:player:23624 - Racu, Petru - FC Sheriff Tiraspol - NO
+sr:player:133780 - Ozbiliz - FC Sheriff Tiraspol - NO
+sr:player:208594 - de Nooijer, Jeremy - FC Sheriff Tiraspol - NO
+sr:player:196268 - Anton, Gheorghe - FC Sheriff Tiraspol - NO
+sr:player:257329 - Kamara, Alhaji - FC Sheriff Tiraspol - NO
+sr:player:109099 - Mugosa, Stefan - FC Sheriff Tiraspol - NO
+sr:player:539260 - de Macedo, Jairo - FC Sheriff Tiraspol - NO
+sr:player:1244948 - Bilinskii, Artiom - FC Sheriff Tiraspol - NO
+sr:player:65369 - Kendysh, Yuri - FC Sheriff Tiraspol - NO
+sr:player:887660 - Rodrigues, Gerson - FC Sheriff Tiraspol - NO
+sr:player:96909 - Badibanga, Ziguy - FC Sheriff Tiraspol - NO
+sr:player:920738 - Damascan, Vitalie - FC Sheriff Tiraspol - YES
+sr:player:131342 - Benzar, Romario - Fotbal Club FCSB - NO
+sr:player:48051 - Larie, Ionut - Fotbal Club FCSB - NO
+sr:player:190295 - Balasa, Mihai - Fotbal Club FCSB - NO
+sr:player:83550 - Pintili, Mihai - Fotbal Club FCSB - NO
+sr:player:361148 - Nedelcu, Dragos - Fotbal Club FCSB - NO
+sr:player:44417 - Alibec, Denis - Fotbal Club FCSB - NO
+sr:player:44545 - Filip, Lucian - Fotbal Club FCSB - NO
+sr:player:171081 - Gnohere, Harlem - Fotbal Club FCSB - NO
+sr:player:537032 - Tanase, Florin - Fotbal Club FCSB - NO
+sr:player:89230 - Budescu, Constantin - Fotbal Club FCSB - NO
+sr:player:79056 - Morais, Junior - Fotbal Club FCSB - NO
+sr:player:49993 - Momcilovic, Marko - Fotbal Club FCSB - NO
+sr:player:267323 - Planic, Bogdan - Fotbal Club FCSB - NO
+sr:player:756342 - Coman, Florinel - Fotbal Club FCSB - NO
+sr:player:310800 - Artur Jorge - Fotbal Club FCSB - NO
+sr:player:1417763 - Stoica, Ianis - Fotbal Club FCSB - NO
+sr:player:359476 - Popescu, Ovidiu - Fotbal Club FCSB - NO
+sr:player:1245032 - Szecui, Alexandru Iliuta - Fotbal Club FCSB - NO
+sr:player:221674 - Enceanu, Rares - Fotbal Club FCSB - NO
+sr:player:43100 - Gaman, Valerica - Fotbal Club FCSB - NO
+sr:player:916120 - Ontel, Cristian - Fotbal Club FCSB - NO
+sr:player:1417765 - Horsia, Ovidiu - Fotbal Club FCSB - YES
+sr:player:1417767 - Cana, Stefan - Fotbal Club FCSB - YES
+sr:player:1417769 - Dinu, Alexandru - Fotbal Club FCSB - NO
+sr:player:1417771 - Ion, Robert - Fotbal Club FCSB - YES
+sr:player:43782 - Tanase, Cristian - Fotbal Club FCSB - NO
+sr:player:361152 - Pham Huy, Tien Florentin - Fotbal Club FCSB - NO
+sr:player:941758 - Bota, Theodor - Fotbal Club FCSB - NO
+sr:player:34540 - Stancioiu, Eduard - Fotbal Club FCSB - NO
+sr:player:98575 - Balgradean, Cristian - Fotbal Club FCSB - NO
+sr:player:3358 - Teixeira, Filipe - Fotbal Club FCSB - NO
+sr:player:893738 - Man, Dennis - Fotbal Club FCSB - NO
+sr:player:934738 - Vlad, Daniel - Fotbal Club FCSB - NO
+sr:player:16238 - Da Costa, David - FC Lugano - NO
+sr:player:41025 - Padalino, Marco - FC Lugano - NO
+sr:player:139524 - Golemic, Vladimir - FC Lugano - NO
+sr:player:1080070 - Guidotti, Stefano - FC Lugano - NO
+sr:player:220441 - Mariani, Davide - FC Lugano - NO
+sr:player:1051763 - Abedini, Eris - FC Lugano - NO
+sr:player:70143 - Bottani, Mattia - FC Lugano - NO
+sr:player:1099943 - Carlinhos Junior - FC Lugano - NO
+sr:player:134255 - Schappi, Silvano - FC Lugano - NO
+sr:player:1426751 - Muci, Alexander - FC Lugano - YES
+sr:player:132834 - Sabbatini, Jonathan - FC Lugano - NO
+sr:player:109582 - Vecsei, Balint - FC Lugano - NO
+sr:player:227872 - Piccinocchi, Mario - FC Lugano - NO
+sr:player:21924 - Gerndt, Alexander - FC Lugano - NO
+sr:player:1429 - Janko, Marc - FC Lugano - NO
+sr:player:147699 - Rouiller, Steve - FC Lugano - NO
+sr:player:140098 - Kiassumbua, Joel - FC Lugano - NO
+sr:player:11599 - Ledesma, Cristian - FC Lugano - NO
+sr:player:576010 - Krasniqi, Jetmir - FC Lugano - YES
+sr:player:23247 - Sulmoni, Fulvio - FC Lugano - NO
+sr:player:37367 - Daprela, Fabio - FC Lugano - NO
+sr:player:232096 - Crnigoj, Domen - FC Lugano - NO
+sr:player:962353 - Amuzie, Stanley - FC Lugano - NO
+sr:player:1012115 - Franzese, Gioele - FC Lugano - NO
+sr:player:900326 - Baumann, Noam - FC Lugano - YES
+sr:player:55049 - Mihajlovic, Dragan - FC Lugano - NO
+sr:player:977515 - Manicone, Carlo - FC Lugano - NO
+sr:player:891814 - Yao, Eloge - FC Lugano - NO
+sr:player:61592 - Goresh, David - Hapoel Beer Sheva - NO
+sr:player:95416 - Bitton, Ben - Hapoel Beer Sheva - NO
+sr:player:64919 - Tzedek, Shir - Hapoel Beer Sheva - NO
+sr:player:61543 - Radi, Maharan - Hapoel Beer Sheva - NO
+sr:player:44242 - Ghadir, Mohammad - Hapoel Beer Sheva - NO
+sr:player:139455 - Nwakaeme, Anthony Nnaduzor - Hapoel Beer Sheva - NO
+sr:player:18814 - Barda, Elyaniv - Hapoel Beer Sheva - NO
+sr:player:61521 - Einbinder, Dan - Hapoel Beer Sheva - NO
+sr:player:191424 - Melamed, Guy - Hapoel Beer Sheva - NO
+sr:player:20627 - Sahar, Ben - Hapoel Beer Sheva - NO
+sr:player:557156 - Bitton, Oren - Hapoel Beer Sheva - NO
+sr:player:80508 - Ohayon, Matan - Hapoel Beer Sheva - NO
+sr:player:136734 - Ohana, Michael - Hapoel Beer Sheva - NO
+sr:player:222736 - Zrihan, Niv - Hapoel Beer Sheva - NO
+sr:player:102326 - Taha, Loai - Hapoel Beer Sheva - NO
+sr:player:936848 - Ban-ari, Paz - Hapoel Beer Sheva - NO
+sr:player:1136271 - Dey, Noam - Hapoel Beer Sheva - NO
+sr:player:159583 - Cuenca, Isaac - Hapoel Beer Sheva - NO
+sr:player:30031 - Vitor, Miguel - Hapoel Beer Sheva - NO
+sr:player:936692 - Ohana, Yagil - Hapoel Beer Sheva - NO
+sr:player:18731 - Melikson, Maor - Hapoel Beer Sheva - NO
+sr:player:112838 - Kabha, Marwan - Hapoel Beer Sheva - NO
+sr:player:62074 - Maman, Hanan - Hapoel Beer Sheva - NO
+sr:player:350520 - Manzon, Vadim - Hapoel Beer Sheva - NO
+sr:player:49055 - Ogu, John - Hapoel Beer Sheva - NO
+sr:player:930396 - Navon, Gal - Hapoel Beer Sheva - NO
+sr:player:95414 - Elhamed, Hatem - Hapoel Beer Sheva - NO
+sr:player:61990 - Haimov, Guy - Hapoel Beer Sheva - NO
+sr:player:67630 - Korhut, Mihaly - Hapoel Beer Sheva - NO
+sr:player:194490 - Elo, Dor - Hapoel Beer Sheva - NO
+sr:player:604756 - Khalaila, Ameer - Hapoel Beer Sheva - NO
+sr:player:1115373 - Shabiro, Itamar - Hapoel Beer Sheva - NO
+sr:player:1136273 - Amit, Gabai - Hapoel Beer Sheva - NO
+sr:player:1136267 - Elias, Jonathan - Hapoel Beer Sheva - NO
+sr:player:41999 - Pekhart, Tomas - Hapoel Beer Sheva - NO
+sr:player:12175 - Kozacik, Matus - FC Viktoria Plzen - NO
+sr:player:58289 - Hejda, Lukas - FC Viktoria Plzen - NO
+sr:player:12154 - Hubnik, Roman - FC Viktoria Plzen - NO
+sr:player:18870 - Horava, Tomas - FC Viktoria Plzen - NO
+sr:player:11969 - Limbersky, David - FC Viktoria Plzen - NO
+sr:player:31601 - Zeman, Martin - FC Viktoria Plzen - NO
+sr:player:122185 - Kopic, Jan - FC Viktoria Plzen - NO
+sr:player:12003 - Petrzela, Milan - FC Viktoria Plzen - NO
+sr:player:12202 - Bolek, Petr - FC Viktoria Plzen - NO
+sr:player:23151 - Reznik, Radim - FC Viktoria Plzen - NO
+sr:player:148894 - Krmencik, Michal - FC Viktoria Plzen - NO
+sr:player:23882 - Hruska, Ales - FC Viktoria Plzen - NO
+sr:player:198282 - Hrosovsky, Patrik - FC Viktoria Plzen - NO
+sr:player:188307 - Chory, Tomas - FC Viktoria Plzen - NO
+sr:player:45723 - Kovarik, Jan - FC Viktoria Plzen - NO
+sr:player:155061 - Hajek, Tomas - FC Viktoria Plzen - NO
+sr:player:137591 - Baranek, Jan - FC Viktoria Plzen - NO
+sr:player:58052 - Bakos, Marek - FC Viktoria Plzen - NO
+sr:player:318045 - Havel, Milan - FC Viktoria Plzen - NO
+sr:player:135607 - Cermak, Ales - FC Viktoria Plzen - NO
+sr:player:15427 - Kolar, Daniel - FC Viktoria Plzen - NO
+sr:player:16782 - Cisovsky, Marian - FC Viktoria Plzen - NO
+sr:player:127758 - Zivulic, Diego - FC Viktoria Plzen - NO
+sr:player:941776 - Svacek, Dominik - FC Viktoria Plzen - NO
+sr:player:154022 - Siman, Jakub - FC Viktoria Plzen - NO
+sr:player:135609 - Stratil, Lukas - FC Viktoria Plzen - NO
+sr:player:847035 - Hlavaty, Michal - FC Viktoria Plzen - NO
+sr:player:1150 - Ivanschitz, Andreas - FC Viktoria Plzen - NO
+sr:player:26091 - Damir - FK Red Star Belgrade - NO
+sr:player:216714 - Frimpong, Abraham - FK Red Star Belgrade - NO
+sr:player:1241208 - Hajdin, Stefan - FK Red Star Belgrade - YES
+sr:player:220231 - Jovicic, Branko - FK Red Star Belgrade - NO
+sr:player:38688 - Le Tallec, Damien - FK Red Star Belgrade - NO
+sr:player:990941 - Racic, Uros - FK Red Star Belgrade - NO
+sr:player:43239 - Krsticic, Nenad - FK Red Star Belgrade - NO
+sr:player:31172 - Milijas, Nenad - FK Red Star Belgrade - NO
+sr:player:1009433 - Adzic, Luka - FK Red Star Belgrade - NO
+sr:player:280815 - Babic, Srdan - FK Red Star Belgrade - NO
+sr:player:50274 - Milic, Nemanja - FK Red Star Belgrade - NO
+sr:player:934938 - Nikolic, Veljko - FK Red Star Belgrade - NO
+sr:player:21203 - Donald, Mitchell - FK Red Star Belgrade - NO
+sr:player:77678 - Rodic, Milan - FK Red Star Belgrade - NO
+sr:player:1240958 - Rakic, Sladan - FK Red Star Belgrade - NO
+sr:player:49556 - Supic, Nemanja - FK Red Star Belgrade - NO
+sr:player:1267904 - Tanko, Ibrahim - FK Red Star Belgrade - NO
+sr:player:934952 - Joveljic, Dejan - FK Red Star Belgrade - NO
+sr:player:98433 - Stojkovic, Filip - FK Red Star Belgrade - NO
+sr:player:39024 - Ben, El Fardou - FK Red Star Belgrade - NO
+sr:player:758618 - Stankovic, Aleksandar - FK Red Star Belgrade - NO
+sr:player:31168 - Andjelkovic, Dusan - FK Red Star Belgrade - NO
+sr:player:979127 - Ilic, Luka - FK Red Star Belgrade - NO
+sr:player:41069 - Pesic, Aleksandar - FK Red Star Belgrade - NO
+sr:player:280817 - Radonjic, Nemanja - FK Red Star Belgrade - NO
+sr:player:1089574 - Gordic, Milos - FK Red Star Belgrade - NO
+sr:player:146668 - Srnic, Slavoljub - FK Red Star Belgrade - NO
+sr:player:1240964 - Stanojev, Jug - FK Red Star Belgrade - NO
+sr:player:191640 - Gobeljic, Marko - FK Red Star Belgrade - NO
+sr:player:79413 - Borjan, Milan - FK Red Star Belgrade - NO
+sr:player:50295 - Savic, Vujadin - FK Red Star Belgrade - NO
+sr:player:1089558 - Ilic, Ivan - FK Red Star Belgrade - NO
+sr:player:151909 - Filipovic, Aleksandar - FC BATE Borisov - YES
+sr:player:358118 - Yablonski, Evgeni - FC BATE Borisov - NO
+sr:player:86107 - Vasiljevic, Nikola - FC BATE Borisov - YES
+sr:player:362912 - Berezkin, Evgeni - FC BATE Borisov - NO
+sr:player:278763 - Ivanic, Mirko - FC BATE Borisov - NO
+sr:player:56039 - Rios, Aleksey - FC BATE Borisov - NO
+sr:player:54775 - Milunovic, Nemanja - FC BATE Borisov - NO
+sr:player:1122567 - Volkov, Zakhar - FC BATE Borisov - YES
+sr:player:894604 - Chichkan, Anton - FC BATE Borisov - NO
+sr:player:94003 - Volodjko, Maksim - FC BATE Borisov - NO
+sr:player:280869 - Shcherbitski, Denis - FC BATE Borisov - NO
+sr:player:427 - Hleb, Aleksandr - FC BATE Borisov - NO
+sr:player:152738 - Signevich, Nikolai - FC BATE Borisov - NO
+sr:player:39494 - Skavysh, Maksim - FC BATE Borisov - NO
+sr:player:44238 - Dragun, Stanislav - FC BATE Borisov - NO
+sr:player:25068 - Stasevich, Igor - FC BATE Borisov - NO
+sr:player:322581 - Tuominen, Jasse - FC BATE Borisov - NO
+sr:player:39496 - Baga, Dmitri - FC BATE Borisov - NO
+sr:player:79383 - Simovic, Slobodan - FC BATE Borisov - NO
+sr:player:110423 - Gordejchuk, Mikhail - FC BATE Borisov - NO
+sr:player:936988 - Osei-Tutu, Jordi - Arsenal - NO
+sr:player:369 - Mertesacker, Per - Arsenal - NO
+sr:player:51340 - Koscielny, Laurent - Arsenal - NO
+sr:player:23571 - Ramsey, Aaron - Arsenal - NO
+sr:player:50070 - Lacazette, Alexandre - Arsenal - NO
+sr:player:38094 - Wilshere, Jack - Arsenal - NO
+sr:player:16176 - Ozil, Mesut - Arsenal - NO
+sr:player:33596 - Ospina, David - Arsenal - NO
+sr:player:51498 - Aubameyang, Pierre-Emerick - Arsenal - YES
+sr:player:821198 - Holding, Rob - Arsenal - NO
+sr:player:352770 - Iwobi, Alex - Arsenal - NO
+sr:player:17088 - Monreal, Nacho - Arsenal - NO
+sr:player:17651 - Cazorla, Santi - Arsenal - NO
+sr:player:89894 - Mustafi, Shkodran - Arsenal - NO
+sr:player:227942 - Chambers, Calum - Arsenal - NO
+sr:player:33902 - Welbeck, Danny - Arsenal - NO
+sr:player:188365 - Bellerin, Hector - Arsenal - NO
+sr:player:950080 - Mavropanos, Konstantinos - Arsenal - YES
+sr:player:117777 - Xhaka, Granit - Arsenal - NO
+sr:player:352768 - Maitland-Niles, Ainsley - Arsenal - NO
+sr:player:142148 - Kolasinac, Sead - Arsenal - NO
+sr:player:1185 - Cech, Petr - Arsenal - NO
+sr:player:159675 - Elneny, Mohamed - Arsenal - NO
+sr:player:796084 - Da Silva, Joshua - Arsenal - NO
+sr:player:559058 - Dragomir, Vlad - Arsenal - NO
+sr:player:936994 - Gilmour, Charlie - Arsenal - NO
+sr:player:109065 - Iliev, Deyan - Arsenal - NO
+sr:player:225096 - Macey, Matt - Arsenal - NO
+sr:player:936316 - Nelson, Reiss - Arsenal - NO
+sr:player:937000 - Nketiah, Edward - Arsenal - NO
+sr:player:937002 - Willock, Joe - Arsenal - NO
+sr:player:37151 - Mkhitaryan, Henrikh - Arsenal - NO
+sr:player:97923 - Horn, Timo - 1 FC Cologne - NO
+sr:player:136922 - Heintz, Dominique - 1 FC Cologne - NO
+sr:player:139510 - Sorensen, Frederik - 1 FC Cologne - NO
+sr:player:17694 - Maroh, Dominic - 1 FC Cologne - NO
+sr:player:102703 - Hoger, Marco - 1 FC Cologne - NO
+sr:player:30376 - Risse, Marcel - 1 FC Cologne - NO
+sr:player:126610 - Jojic, Milos - 1 FC Cologne - NO
+sr:player:26231 - Terodde, Simon - 1 FC Cologne - NO
+sr:player:88471 - Zoller, Simon - 1 FC Cologne - NO
+sr:player:48240 - Osako, Yuya - 1 FC Cologne - NO
+sr:player:124544 - Hector, Jonas - 1 FC Cologne - NO
+sr:player:281253 - Cordoba, Jhon - 1 FC Cologne - NO
+sr:player:122833 - Olkowski, Pawel - 1 FC Cologne - NO
+sr:player:94726 - Clemens, Christian - 1 FC Cologne - NO
+sr:player:8683 - Kessler, Thomas - 1 FC Cologne - NO
+sr:player:328027 - Guirassy, Sehrou - 1 FC Cologne - NO
+sr:player:784739 - Ozcan, Salih - 1 FC Cologne - NO
+sr:player:111969 - Bittencourt, Leonardo - 1 FC Cologne - NO
+sr:player:355046 - Mere, Jorge - 1 FC Cologne - NO
